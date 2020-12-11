@@ -3,6 +3,7 @@
 Spyder Editor
 
 This is a temporary script file.
+
 """
 
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
