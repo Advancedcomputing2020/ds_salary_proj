@@ -1,4 +1,4 @@
-Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,hourly,employer_provided,min_salary,max_salary,avg_salary,job_state,age,python,R,spark,aws,excel
 Data Scientist,₹698K-₹960K (Glassdoor est.),"Relocation Assistance Offered Within Country
 # 93100 - Mumbai, Maharashtra, India
 
@@ -43,7 +43,7 @@ Are you interested in working for Colgate-Palmolive? You can apply online and at
 Colgate-Palmolive is a leading global consumer products company, tightly focused on Oral Care, Personal Care, Home Care and Pet Nutrition. Colgate sells its products in over 200 countries and territories around the world under such internationally recognized brand names as Colgate, Palmolive, elmex, Tom’s of Maine, Sorriso, Speed Stick, Lady Speed Stick, Softsoap, Irish Spring, Protex, Sanex, Elta MD, PCA Skin, Ajax, Axion, Fabuloso, Soupline and Suavitel, as well as Hill’s Science Diet and Hill’s Prescription Diet.
 For more information about Colgate’s global business, visit the Company’s web site at http://www.colgatepalmolive.com. To learn more about Colgate Bright Smiles, Bright Futures® oral health education program, please visit http://www.colgatebsbf.com. To learn more about Hill's and the Hill’s Food, Shelter & Love program please visit http://www.hillspet.com. To learn more about Tom’s of Maine please visit http://www.tomsofmaine.com.
 Reasonable accommodation during the application process is available for persons with disabilities. Please contact Application_Accommodation@colpal.com with the subject ""Accommodation Request"" should you require accommodation.",4.1,"Colgate-Palmolive
-4.1",Mumbai,-1,10000+ Employees,1806,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1
+",Mumbai,-1,10000+ Employees,1806,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,698,960,829.0,['Mumbai'],214,1,0,1,0,0
 Data Scientist,"₹417K-₹1,000K (Glassdoor est.)","If you are a data junkie who would like to wrangle through huge data sets of usage, stats, clickstreams, free text feedbacks and more to predict the user experience, adoption and retention. You like to solve complex and challenging problems and articulate the results in a lucid manner. Then we’ve got the problem for you and the data to solve it.
 
 In your role as data scientist you will :
@@ -61,7 +61,7 @@ Very strong SQL and data visualization
 Exposure to Big Data platforms such as Spark, Mahout, Scala, AWS machine learning is a plus
 Great communications skills
 Verizon recently acquired BlueJeans and plans to integrate BlueJeans employees into Verizon, including its compensation and benefits programs, in due course. This position will be part of that planned integration.",3.1,"BlueJeans
-3.1",Bangalore,-1,201 to 500 Employees,2009,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",Bangalore,-1,201 to 500 Employees,2009,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,417,1000,708.5,['Bangalore'],11,1,0,1,1,0
 Data Scientist,₹477K-₹640K (Glassdoor est.),"Amazon strives to be Earth's most customer-centric company where people can find and discover anything they want to buy online. We hire the world's brightest minds, offering them a fast paced, technologically sophisticated, and friendly work environment.
 
 The FinAuto Anomaly Detection team, part of Finance Automation Org focuses on building application with machine learning models to identify and prevent theft, fraud, abusive and wasteful financial transactions across the company. As a Data Scientist in the team, you will be driving the analytics roadmap and will provide descriptive and predictive solutions to the development and business stakeholders through a combination of data mining techniques as well as statistical and machine learning techniques for segmentation and prediction. You will need to collaborate effectively with internal stakeholders, cross-functional teams to solve problems, create operational efficiencies, and deliver successfully against high organizational standards.
@@ -91,7 +91,7 @@ Preferred Qualifications
 · Advanced knowledge in performance, scalability, numerical accuracy, enterprise system architecture, best practices.
 · Experience building solutions using AWS big data and machine learning services
 · Ability to communicate complex technical concepts and solutions to all levels of the organization",4.3,"Amazon
-4.3",Hyderābād,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1
+",Hyderābād,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1,0,0,477,640,558.5,['Hyderābād'],26,1,0,1,1,0
 Data Analyst,₹273K-₹508K (Glassdoor est.),"Punchh is the leader in customer loyalty, offer management, and AI solutions for offline and omni-channel merchants including restaurants, convenience stores, and retailers. Punchh brings the power of online to physical brands by delivering omni-channel experiences and personalization across the entire customer journey--from acquisition through loyalty and growth--to drive same store sales and customer lifetime value. Punchh uses best-in-class integrations to POS and other in-store systems such as WiFi, to deliver real-time SKU-level transaction visibility and offer provisioning for physical stores.
 
 Punchh is growing exponentially, serves 200+ brands that encompass 91K+ stores globally. Punchh's customers include the top convenience stores such as Casey's General Stores, 25+ of the top 100 restaurant brands such as Papa John's, Little Caesars, Denny's, Focus Brands (5 of 7 brands), and Yum! Brands (KFC, Pizza Hut, and Taco Bell), and retailers. For a multi-billion $ brand with 6K+ stores, Punchh drove a 3% lift in same-store sales within the first year. Punchh is powering loyalty programs for 135+ million consumers.
@@ -137,7 +137,7 @@ Punchh is proud to provide equal employment opportunities (EEO) to all employees
 We also provide reasonable accommodations to individuals with disabilities in accordance with applicable laws.
 
 Notice to recruiters and placement agencies: If you are a recruiter or placement agency, please do not submit résumés to any person or email address at Punchh prior to having a signed agreement with Human Resources. Punchh is not liable for and will not pay placement fees for candidates submitted by any agency other than its approved recruitment partners. Also, any résumés sent to us without an agreement in place will be considered your company's gift to Punchh and may be forwarded to our Talent Acquisition team.",3.7,"Punchh
-3.7",Jaipur,-1,201 to 500 Employees,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD),-1
+",Jaipur,-1,201 to 500 Employees,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD),-1,0,0,273,508,390.5,['Jaipur'],10,1,0,1,1,0
 Data Analyst - Product,₹300K-₹631K (Glassdoor est.),"OUR STORY:
 
 JioSaavn is South Asias leading music streaming service. We are over 200 entrepreneurs, across New York, California, Mumbai, Gurgaon, and Bangalore, who help music lovers access, discover, and listen to their favorite songs across languages and genres. In early 2018, a merger between JioMusic and Saavn was announced; creating a combined entity valued at over $1 billion.
@@ -184,7 +184,7 @@ Flexible vacation policies
 Free healthy (and unhealthy) lunches & snacks
 JioSaavn -sponsored team outings
 Powered by JazzHR",4.4,"Saavn
-4.4",Mumbai,-1,201 to 500 Employees,2007,Company - Private,Music Production & Distribution,Media,Unknown / Non-Applicable,-1
+",Mumbai,-1,201 to 500 Employees,2007,Company - Private,Music Production & Distribution,Media,Unknown / Non-Applicable,-1,0,0,300,631,465.5,['Mumbai'],13,1,0,0,0,1
 Data Scientist,₹480K-₹720K (Glassdoor est.),"Location
 
 
@@ -234,7 +234,7 @@ Data Science
 Ref Number
 
 VR-53471",4.2,"Luxoft
-4.2",Pune,-1,10000+ Employees,2000,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable,-1
+",Pune,-1,10000+ Employees,2000,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,480,720,600.0,['Pune'],20,1,0,1,0,0
 Data Scientist,₹533K-₹758K (Glassdoor est.),"Responsibilities for Data Scientist
 Work with stakeholders throughout the organization to build proof of concepts for new business solutions.
 Efficiently explore new data sources and assess data gathering techniques.
@@ -279,7 +279,7 @@ Pay Transparency
 Current Colleagues
 
 If you are currently employed by IHS Markit, please apply internally via the Workday internal careers site.",4.0,"IHS Markit
-4.0",Gurgaon,-1,10000+ Employees,2016,Company - Public,Consulting,Business Services,$2 to $5 billion (USD),-1
+",Gurgaon,-1,10000+ Employees,2016,Company - Public,Consulting,Business Services,$2 to $5 billion (USD),-1,0,0,533,758,645.5,['Gurgaon'],4,1,0,0,0,1
 Data Scientist,₹439K-₹561K (Glassdoor est.),"Our Excellerate Global Leadership Program will give you an outstanding opportunity to engage with commercial projects at a strategic and global level, rising up to challenges and becoming and developing as a leader.
 
 As part of the Excellerate program you are able to seize the initiative, operate with a consultative approach and collaborate on cross-technology solutions. The program will ensure you gain real practical insight into our business, our stakeholders and our customers including communication service providers (CSP) across the globe, and how we integrate end-to-end solutions to ensure everyone worldwide is connected.
@@ -325,7 +325,7 @@ Do you believe that an organization fostering an environment of cooperation and 
 Be the one who did.
 
 Find out more about our Early Career program, what the alumni's are up to now and how the program can transform your career at www.ericsson.com/ecp",4.0,"Ericsson-Worldwide
-4.0",Chennai,-1,10000+ Employees,1876,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),-1
+",Chennai,-1,10000+ Employees,1876,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),-1,0,0,439,561,500.0,['Chennai'],144,1,0,0,0,1
 Data Scientist,₹359K-₹580K (Glassdoor est.),"When everything's connected, how we connect is everything… and we'd like to connect with you too! We are looking for you to help us deliver exceptional customer experiences as a Data Scientist.
 At TTEC Digital, we combine human insight and the speed of technology to transform our clients’ interactions with their customers. Advanced analytics of the customer experience and customer interactions is our expertise.
 Check out our website below to learn more about what we do and how we help our clients.
@@ -371,7 +371,7 @@ Strong background in consulting a plus
 
 About TTEC
 We help global brands provide a great experience to their customers, build customer loyalty, and grow their business. We were founded on one guiding principle: customer experiences that are simple, inspired, and more human deliver lasting value for everyone. Your role brings that principle to life.",3.5,"TTEC
-3.5",Hyderābād,-1,10000+ Employees,1982,Company - Public,Staffing & Outsourcing,Business Services,$1 to $2 billion (USD),-1
+",Hyderābād,-1,10000+ Employees,1982,Company - Public,Staffing & Outsourcing,Business Services,$1 to $2 billion (USD),-1,0,0,359,580,469.5,['Hyderābād'],38,1,0,0,1,1
 Senior / Data Science Engineer,"₹490K-₹1,094K (Glassdoor est.)","Gainsight™ is a venture-backed, fast-growing tech company revolutionizing Customer Success for businesses. The Customer Success company helps businesses grow faster by reducing churn, increasing upsell, and driving customer advocacy. Gainsight provides a complete, end-to-end Customer Success solution through its services and technology. The industry-leading platform helps companies manage customer relationships effectively, track customer health, and transform the way organizations orient around the customer. Gainsight is the platform of choice for many leading companies like Box, Adobe, and Workday. The company has been recognized as one of the top 100 private cloud companies in the world by Forbes, one of the fastest-growing private companies in America by Inc. Magazine, and as one of 20 Great Workplaces in Tech by Fortune Magazine. Gainsight's CEO, Nick Mehta, has been recognized as one of the Top SaaS CEOs in America. The company has offices in California, Phoenix, St. Louis, London, Israel, and India.
 
 About The Job Role
@@ -412,7 +412,7 @@ Child-like Joy: We aspire to experience passion, optimism, and laughter in every
 Shoshin: We believe in a beginner's mind, and that learning comes from everywhere.
 Stay Thirsty, My Friends: We believe in an internally-driven strive for greatness.
 Individuals seeking employment at Gainsight are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation.",4.2,"Gainsight
-4.2",Hyderābād,-1,501 to 1000 Employees,2009,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",Hyderābād,-1,501 to 1000 Employees,2009,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,490,1094,792.0,['Hyderābād'],11,1,0,0,0,0
 Data Scientist,₹313K-₹607K (Glassdoor est.),"Co-relationship models
 ARIMA
 Exponential Moving Average
@@ -423,7 +423,7 @@ Good Oral and Written Communication Skills
 Data Digger/Data Analyst
 Analytical
 Self Starter",5.0,"Techlive
-5.0",Noida,-1,51 to 200 Employees,-1,Company - Private,IT Services,Information Technology,Less than $1 million (USD),-1
+",Noida,-1,51 to 200 Employees,-1,Company - Private,IT Services,Information Technology,Less than $1 million (USD),-1,0,0,313,607,460.0,['Noida'],-1,0,0,0,0,0
 Senior Data Scientist,"₹840K-₹1,027K (Glassdoor est.)","Relocation Assistance Offered Within Country
 # 92240 - Mumbai, Maharashtra, India
 
@@ -471,7 +471,7 @@ Are you interested in working for Colgate-Palmolive? You can apply online and at
 Colgate-Palmolive is a leading global consumer products company, tightly focused on Oral Care, Personal Care, Home Care and Pet Nutrition. Colgate sells its products in over 200 countries and territories around the world under such internationally recognized brand names as Colgate, Palmolive, elmex, Tom’s of Maine, Sorriso, Speed Stick, Lady Speed Stick, Softsoap, Irish Spring, Protex, Sanex, Elta MD, PCA Skin, Ajax, Axion, Fabuloso, Soupline and Suavitel, as well as Hill’s Science Diet and Hill’s Prescription Diet.
 For more information about Colgate’s global business, visit the Company’s web site at http://www.colgatepalmolive.com. To learn more about Colgate Bright Smiles, Bright Futures® oral health education program, please visit http://www.colgatebsbf.com. To learn more about Hill's and the Hill’s Food, Shelter & Love program please visit http://www.hillspet.com. To learn more about Tom’s of Maine please visit http://www.tomsofmaine.com.
 Reasonable accommodation during the application process is available for persons with disabilities. Please contact Application_Accommodation@colpal.com with the subject ""Accommodation Request"" should you require accommodation.",4.1,"Colgate-Palmolive
-4.1",Mumbai,-1,10000+ Employees,1806,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1
+",Mumbai,-1,10000+ Employees,1806,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,840,1027,933.5,['Mumbai'],214,1,0,1,0,0
 Data Scientist,₹443K-₹697K (Glassdoor est.),"Position Title
 Data Scientist
 
@@ -536,7 +536,7 @@ Nov Hltcr Shared Services Ind
 
 Shift Work
 No",4.1,"Novartis
-4.1",Hyderābād,-1,10000+ Employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1
+",Hyderābād,-1,10000+ Employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,443,697,570.0,['Hyderābād'],24,1,0,0,0,1
 Data Scientist,₹472K-₹795K (Glassdoor est.),"Key Accountabilities:
 
 The Data Scientist work with business stakeholders to understand business objective ( i.e. improve business function/process/associates performance etc.)
@@ -562,7 +562,7 @@ Knowledge of advanced statistical techniques and concepts (regression, propertie
 Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.)
 Strong project management skills with the ability to manage multiple assignments effectively
 An understanding of current industry challenges and trends at the level needed to proactively identify clients analytical needs and related business opportunities",3.8,"Parexel
-3.8",Hyderābād,-1,10000+ Employees,1982,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),-1
+",Hyderābād,-1,10000+ Employees,1982,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),-1,0,0,472,795,633.5,['Hyderābād'],38,1,0,0,0,1
 Data Scientist,₹457K-₹675K (Glassdoor est.),"Company Overview
 
 Fanatics is the global leader in licensed sports merchandise and changing the way fans purchase their favorite team apparel and jerseys. Through an innovative, tech-infused approach to making and selling fan gear in today's on-demand culture, Fanatics operates more than 300 online and offline stores, including the e-commerce business for all major professional sports leagues (NFL, MLB, NBA, NHL, NASCAR, MLS, PGA), major media brands (NBC Sports, CBS Sports, FOX Sports) and more than 200 collegiate and professional team properties, which include several of the biggest global soccer clubs (Manchester United, Real Madrid, Chelsea, Manchester City). Fanatics offers the largest collection of timeless and timely merchandise whether shopping online, on your phone, in stores, in stadiums or on-site at the world's biggest sporting events.
@@ -591,7 +591,7 @@ Working knowledge of big data processing technologies such as Hadoop, Hive, Pig 
 Ability to use SQL to perform data analysis.
 Have a BS/MS/PhD in Statistics, Applied Math, Operational Research, Computer Science or related field.
 Tryouts are open at Fanatics! Our team is passionate, talented, unified, and charged with creating the fan experience of tomorrow. The ball is in your court now.",3.5,"Fanatics Inc.
-3.5",Hyderābād,-1,5001 to 10000 Employees,1996,Company - Private,Sporting Goods Stores,Retail,$1 to $5 million (USD),-1
+",Hyderābād,-1,5001 to 10000 Employees,1996,Company - Private,Sporting Goods Stores,Retail,$1 to $5 million (USD),-1,0,0,457,675,566.0,['Hyderābād'],24,0,0,1,0,1
 Data Scientist,₹480K-₹883K (Glassdoor est.),"Job Description
 
 POSITION PURPOSE:
@@ -652,7 +652,7 @@ Bayer
 Bayer is a global enterprise with core competencies in the Life Science fields of health care and agriculture. Our products and services are designed to benefit people and improve their quality of life. At the same time, we aim to create value through innovation, growth and high earning power.
 Our products help address some of today’s biggest challenges, including global population growth, an aging society and the need to make efficient – and, wherever possible, sustainable – use of natural resources.
 In line with our mission “Bayer: Science For A Better Life,” we aim to improve people’s quality of life by preventing, alleviating or curing diseases. We also help provide an adequate supply of high-quality food, feed and renewable plant-based raw materials. For these endeavors, we focus on developing and successfully commercializing innovative products and solutions based on scientific knowledge.",4.1,"Bayer
-4.1",Bangalore,-1,5001 to 10000 Employees,1863,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1
+",Bangalore,-1,5001 to 10000 Employees,1863,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,480,883,681.5,['Bangalore'],157,1,0,0,0,0
 Data Scientist,₹818K-₹916K (Glassdoor est.),"Our Purpose and Challenges
 With over 47% market-share, MakeMyTrip is India’s first and biggest travel company. In fact, one in every four passengers at an airport is our customer. Driven by the desire to provide an exceptional travel experience for our customers, we have continuously stayed ahead of the curve by developing technology and products to meet the ever-changing demands of the rapidly evolving travel ecosystem.
 
@@ -701,7 +701,7 @@ Learning Academies
 Continuous Education Scheme
 Conferences
 Peer Learning",4.2,"MakeMyTrip
-4.2",Bangalore,-1,1001 to 5000 Employees,2000,Company - Public,Internet,Information Technology,$100 to $500 million (USD),-1
+",Bangalore,-1,1001 to 5000 Employees,2000,Company - Public,Internet,Information Technology,$100 to $500 million (USD),-1,0,0,818,916,867.0,['Bangalore'],20,1,0,0,0,0
 Data Scientist II,₹597K-₹759K (Glassdoor est.),"Amazon is looking for a Data Scientist to join our Alexa AI and NU India team. We are seeking a candidate with strong analytical skills and language technology experience to help us develop language components for a variety of Alexa products.
 
 Come join the Alexa team, building the speech and language solutions behind Amazon Echo and other Amazon products and services! You will help us invent the future.
@@ -741,7 +741,7 @@ Preferred Qualifications
 · Experience in one or more natural language processing topics: tagging, syntactic parsing, word sense disambiguation, topic modeling; contextual text mining, and application of deep learning to NLP
 · Previous experience in a ML or data scientist role with a large technology company
 · Fluency in a language other than English",4.3,"Amazon
-4.3",Bangalore,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1,0,0,597,759,678.0,['Bangalore'],26,1,0,0,0,0
 Data Scientist,₹734K-₹914K (Glassdoor est.),"We at Clean Harbors are looking for Data Scientist in Hyderabad location.
 
 Experience Required:
@@ -771,7 +771,7 @@ Regards,
 Santosh Kumar Katteti
 
 5.00-9.00 Years",3.4,"Clean Harbors India LLP
-3.4",Hyderābād,-1,10000+ Employees,1980,Company - Public,Trucking,Transportation & Logistics,$2 to $5 billion (USD),-1
+",Hyderābād,-1,10000+ Employees,1980,Company - Public,Trucking,Transportation & Logistics,$2 to $5 billion (USD),-1,0,0,734,914,824.0,['Hyderābād'],40,1,0,0,0,1
 Staff Data Scientist,₹173K-₹204K (Glassdoor est.),"Data Scientist
 Mist, a Juniper Company, is the first vendor to bring enterprise-grade Wi-Fi, BLE and IoT together through a highly scalable cloud architecture. On top of this real time cloud stack, we are building the first AI-empowered platform to answer questions on par with network domain specialists and automate remediation to poor user experiences on the network. Mist’s Marvis AI/ML platform has become the new global standard for many fortune 500 companies.
 The mission of the Data Science team at Mist is to demonstrate state-of-art ML and AI technologies to build the next-generation self-driving network solution, which can take actions on behalf of or together with human specialists to automatically supervise, detect and remediate common network issues. The team includes a group of experienced and hardworking data scientists and data science engineers, and builds the end-to-end data analytics infrastructure and ML models of the product.
@@ -796,7 +796,7 @@ Implement new statistical or other mathematical methodologies as needed for spec
 Optimize joint development efforts through appropriate database use and project design
 Juniper is an Equal Opportunity workplace and Affirmative Action employer. We do not discriminate in employment decisions on the basis of race, color, religion, gender (including pregnancy), national origin, political affiliation, sexual orientation, gender identity or expression, marital status, disability, genetic information, age, veteran status, or any other applicable legally protected characteristic. All employment decisions are made on the basis of individual qualifications, merit, and business need.
 We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.",3.9,"Juniper Networks
-3.9",Bangalore,-1,5001 to 10000 Employees,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),-1
+",Bangalore,-1,5001 to 10000 Employees,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),-1,0,0,173,204,188.5,['Bangalore'],24,1,0,1,1,1
 Associate - Data Scientist,₹259K-₹447K (Glassdoor est.),"YASH Technologies, a leading enterprise business and technology solution partner for medium and large global customers, is seeking to hire "" Data Scientist "" who thrives on challenges and desires to make a real difference in the business world. With an environment of extraordinary innovation and unprecedented growth, this is an exciting opportunity for a self-starter who enjoys working in a fast-paced, quality-oriented, and team environment.
 
 What you should have?
@@ -872,7 +872,7 @@ Working together with partners and customers
 Solve complex integration issues
 Ability to work in global teams with different time zones
 Immerse yourself quickly in new topics, terminology, and development tasks",3.7,"Yash Technologies
-3.7",Indore,-1,1001 to 5000 Employees,1996,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1
+",Indore,-1,1001 to 5000 Employees,1996,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1,0,0,259,447,353.0,['Indore'],24,1,0,0,1,1
 Data Scientist,₹698K-₹865K (Glassdoor est.),"About Us :
 The fastest rising startup in the EdTech space, focussed on Engineering and Government Job Exams and with an eye to capture UPSC, PSC and international exams. Testbook is poised to revolutionize the industry. With a registered user base of over 1.36 Crore students, more than 450 crore questions solved on the WebApp and a knockout Android App, Testbook has raced to the front and is ideally placed to capture bigger markets. Testbook is the perfect incubator for talent. You come, you learn, you conquer. You train under the best mentors and become an expert in your field in your own right. That being said, the flexibility in the projects you choose, how and when you work on them, what you want to add to them is respected in this startup. You are the sole master of your work. The IIT pedigree of the co-founders has attracted some of the brightest minds in the country to Testbook. A team that is quickly swelling in ranks, it now stands at 500+ in-house employees and hundreds of remote interns and freelancers. And the number is rocketing weekly. Now is the time to join the force.
 
@@ -895,7 +895,7 @@ Extensive background in data mining, machine learning and artificial intelligenc
 Able to understand various data structures and common methods in data transformation
 Excellent pattern recognition and predictive modelling skills
 Experience with programming languages such as GoLang",3.9,"Testbook
-3.9",Navi Mumbai,-1,1 to 50 Employees,2014,Company - Private,Education Training Services,Education,$5 to $10 million (USD),-1
+",Navi Mumbai,-1,1 to 50 Employees,2014,Company - Private,Education Training Services,Education,$5 to $10 million (USD),-1,0,0,698,865,781.5,['Navi Mumbai'],6,1,0,1,0,1
 Data Scientist - Technology Development,₹350K-₹679K (Glassdoor est.),"Relocation Level: Domestic
 
 Hiring Manager: Scott Gatzemeier
@@ -950,7 +950,7 @@ Join an inclusive team passionate about one thing: using their expertise in the 
 All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.
 
 Keywords: Hyderabad || Andhra Pradesh (IN-AP) || India (IN) || Technology Development || Experienced || Regular || Engineering || #LI-RR1 || Tier 4 ||",3.7,"Micron Technology
-3.7",Hyderābād,-1,10000+ Employees,1978,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+",Hyderābād,-1,10000+ Employees,1978,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1,0,0,350,679,514.5,['Hyderābād'],42,1,0,1,0,0
 Data Scientist,"₹527K-₹1,000K (Glassdoor est.)","JOB Description
 Key Skills
 
@@ -971,7 +971,7 @@ Object oriented programming
 A/B testing framework and model fine tuning
 
 4.00-9.00 Years",3.8,"Lera Technologies Private Limited
-3.8",Bangalore,-1,51 to 200 Employees,2004,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+",Bangalore,-1,51 to 200 Employees,2004,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,527,1000,763.5,['Bangalore'],16,1,0,0,0,0
 Business Analyst - Data Science,₹479K-₹700K (Glassdoor est.),"With a startup spirit and 90,000+ curious and courageous minds, we have the expertise to go deep with the world’s biggest brands—and we have fun doing it. Now, we’re calling all you rule-breakers and risk-takers who see the world differently, and are bold enough to reinvent it. Come, transform with us.
 Are you the one we are looking for?
 We are inviting applications for the role of BA, Data Science
@@ -992,7 +992,7 @@ Analytical/ Problem Solving attitude with superb communication & interpersonal s
 Customer centric approach Proven proficiency with written and oral English language
 Strong attention to detail.
 Genpact is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws. Genpact is committed to creating a dynamic work environment that values diversity and inclusion, respect and integrity, customer focus, and innovation. For more information, visit www.genpact.com. Follow us on Twitter, Facebook, LinkedIn, and YouTube.",3.8,"Genpact
-3.8",Bangalore,-1,10000+ Employees,1997,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),-1
+",Bangalore,-1,10000+ Employees,1997,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),-1,0,0,479,700,589.5,['Bangalore'],23,1,0,0,1,0
 Data Scientist,₹274K-₹650K (Glassdoor est.),"Roles and Responsibilities
 Understand clients business objectives and strategy to ensure that analysis work is focused on the areas where most value can be added.
 Collaborate with stakeholders/ team leaders in order to understand problem statements and design and execute potential solutions.
@@ -1001,7 +1001,7 @@ Integration of multiple sources of data working on BigData platforms.
 Perform Exploratory Data Analysis on large and complex data sets comprising of structured, semi-structured and unstructured data.
 Work on multiple unstructured problems to deliver insights/ end-to- end solutions and improve our clients- understanding of their customers using analysis / statistics / machine learning algorithms.
 Keep abreast of the latest developments in the data science space across industries for potential uses.
-Please mail your CV to career@torcai.com",-1,torcai digital media,Pune,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Please mail your CV to career@torcai.com",-1.0,torcai digital media,Pune,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,274,650,462.0,['Pune'],-1,0,0,0,0,0
 Data Scientist,₹250K-₹818K (Glassdoor est.),"Job Summary
 Exp: 5+ Years
 Location: Bangalore
@@ -1016,7 +1016,7 @@ Clustering, Time Series, Decision Trees, Text Analytics
 Strong experience in ML Algorithms
 
 Drop your CV at Priyanka@green-tree.in",2.1,"GreenTree
-2.1",Bangalore,-1,501 to 1000 Employees,-1,Unknown,Consulting,Business Services,Less than $1 million (USD),-1
+",Bangalore,-1,501 to 1000 Employees,-1,Unknown,Consulting,Business Services,Less than $1 million (USD),-1,0,0,250,818,534.0,['Bangalore'],-1,1,0,0,0,0
 Data Scientist,₹223K-₹652K (Glassdoor est.),"We, at KhataBook, are looking to hire a Data Scientist who will support our product, sales, leadership and marketing teams with insights gained from analyzing company data. The ideal candidate is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. They must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. They must have a proven ability to drive business results with their data-based insights. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
 About us:
 
@@ -1055,7 +1055,7 @@ Knowledge of advanced statistical techniques and concepts (regression, propertie
 Excellent written and verbal communication skills for coordinating across teams.
 A drive to learn and master new technologies and techniques.
 Bachelor's degree in Statistics, Mathematics, Computer Science or another quantitative field",4.8,"KhataBook
-4.8",Bangalore,-1,51 to 200 Employees,2018,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+",Bangalore,-1,51 to 200 Employees,2018,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,223,652,437.5,['Bangalore'],2,1,0,0,0,1
 Data Scientist,₹240K-₹530K (Glassdoor est.),"Masters (or PhD degree-preferred) in Computer science/Statistics/Mathematics/Machine learning/Data science or other artificial intelligence related subjects
 2 - 4 years of experience in machine learning/artificial intelligence in academics or industry
 Expert level in at least one programming language. Preferably R or Python
@@ -1065,7 +1065,7 @@ Knowledge in databases preferable
 
 2.00-4.00 Years
 Masters in Technology (M.Tech/M.E/M.Sc), PhD",5.0,"Novotree Minds Consulting Private Limited
-5.0",Bangalore,-1,1 to 50 Employees,2010,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1
+",Bangalore,-1,1 to 50 Employees,2010,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,240,530,385.0,['Bangalore'],10,1,0,0,0,0
 Data Scientist,₹300K-₹760K (Glassdoor est.),"We provide Virtual Business Process Services to various types of overseas clients and this position is to be part of the team which provides support to USA client from Mortgage Finance industry. Hence we are looking to hire Data Scientist with experience in analyzing large amounts of data and information. Data Scientist will provide data manipulation, scrubbing and synthesizing of information into easy to read weekly, monthly and quarterly reports.
 RESPONSIBILITIES
 Work with large data sets and produce real-time and streamlined analysis
@@ -1103,7 +1103,7 @@ Location: Hi-Tech City, Hyderabad
 Timings: USA Shift IST 5-30pm to 2-30am
 salary range: As Per Industry Standards
 Send Application TO: hr@finacplus.com",3.9,"FinAcPlus
-3.9",Hyderābād,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Hyderābād,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,300,760,530.0,['Hyderābād'],-1,1,0,0,0,1
 Data Scientist II,₹258K-₹541K (Glassdoor est.),"What's the role?
 
 
@@ -1128,7 +1128,7 @@ Who are we?
 HERE Technologies is a location data and technology platform company. We empower our customers to achieve better outcomes – from helping a city manage its infrastructure or a business optimize its assets to guiding drivers to their destination safely.
 
 At HERE we take it upon ourselves to be the change we wish to see. We create solutions that fuel innovation, provide opportunity and foster inclusion to improve people’s lives. If you are inspired by an open world and driven to create positive change, join us. Learn more about us. Watch Video",3.8,"HERE Technologies
-3.8",Mumbai,-1,5001 to 10000 Employees,1984,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+",Mumbai,-1,5001 to 10000 Employees,1984,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,258,541,399.5,['Mumbai'],36,1,0,0,0,0
 Data Analyst,₹258K-₹541K (Glassdoor est.),"Are you customer obsessed, flexible, smart and analytical, strategic yet execution focused and passionate about e-commerce? Are you an experienced, entrepreneurial leader with a strong work ethic? If yes, this opportunity will appeal to you.
 Amazon is looking for a Data Analyst for Amazon Business.
 We are looking for customer obsessed, data driven entrepreneurs to join our growing team. Solve some of the hardest problems for our customers. If you want operate at start up speed, solve some of the hardest problems and build a service which customers love, Amazon.in might just be the place for you.
@@ -1159,7 +1159,7 @@ Preferred Qualifications
 · Experience with e-commerce, retail or marketing analytics would be an advantage.
 · Experience in designing and implementing custom reporting systems using automation tool
 · A Strong individual contributor who can work with minimal direction and oversight.",4.3,"Amazon
-4.3",Bangalore,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1,0,0,258,541,399.5,['Bangalore'],26,1,0,0,0,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Job Title
 Data Scientist
 Job Description
@@ -1195,7 +1195,7 @@ Employee
 Job Functional Area
 Data Science & Analytics
 Kaplan is an Equal Opportunity Employer",3.5,"Kaplan
-3.5",Bangalore,-1,10000+ Employees,1938,Subsidiary or Business Segment,Education Training Services,Education,$2 to $5 billion (USD),-1
+",Bangalore,-1,10000+ Employees,1938,Subsidiary or Business Segment,Education Training Services,Education,$2 to $5 billion (USD),-1,0,0,258,541,399.5,['Bangalore'],82,1,0,0,0,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Data Scientist
 bangalore, Karnataka - India | Posted - 10/09/2020
 Overview
@@ -1209,7 +1209,7 @@ Overview
 
 Job Details
 N/A",3.8,"Skoruz
-3.8",Bangalore,-1,201 to 500 Employees,2007,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),-1
+",Bangalore,-1,201 to 500 Employees,2007,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),-1,0,0,258,541,399.5,['Bangalore'],13,1,0,0,0,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Experience: 4 years
 Job Location: Gurgaon, India
 
@@ -1233,7 +1233,7 @@ Should have good interpersonal skills, and adequate client facing and communicat
 Should be a fast and willing learner. Demonstrated agility to rapidly adapt to new platforms and design paradigms is a must.
 Proposed Salary and Compensation :
 Commensurate to the candidate(s) experience and qualifications and will include Employee Stock options.",4.4,"Axslogic
-4.4",Gurgaon,-1,51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",Gurgaon,-1,51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,258,541,399.5,['Gurgaon'],8,0,0,0,0,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Location: Bangalore
 
 Role and Responsibilities
@@ -1261,7 +1261,7 @@ Experience with designing and conducing successful statistical experiments is a 
 
 Departments: Analytics
 Locations: Bangalore",3.8,"Netradyne
-3.8",Bangalore,-1,1 to 50 Employees,-1,Contract,-1,-1,Less than $1 million (USD),-1
+",Bangalore,-1,1 to 50 Employees,-1,Contract,-1,-1,Less than $1 million (USD),-1,0,0,258,541,399.5,['Bangalore'],-1,1,0,0,0,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"We are looking for Data Scientist with experience in Python and Sql Server for Navi Mumbai Location.
 Required Candidate profile
 Role – Data scientist
@@ -1292,7 +1292,7 @@ Recruiter Name:Noman Shaikh
 Contact Company:Harjai Computers Pvt Ltd
 Telephone:7506790199
 Reference Id:SDK_Data Scientist",4.3,"Harjai Computers
-4.3",Navi Mumbai,-1,201 to 500 Employees,-1,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",Navi Mumbai,-1,201 to 500 Employees,-1,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,258,541,399.5,['Navi Mumbai'],-1,1,0,0,0,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Job Location: Electronic City, Bangalore
 Shift timings: 1:30 pm – 10:30 pm
 
@@ -1347,7 +1347,7 @@ US Disclosure
 The Company is an Equal Employment Opportunity employer. No employee or applicant for employment will be discriminated against on the basis of race, color, religion, age, sex, sexual orientation, national origin, ancestry, disability, military or veteran status, genetic information, gender identity, transgender status, marital status, or any other classification protected by applicable federal, state, or local law. This policy of Equal Employment Opportunity applies to all policies and programs relating to recruitment and hiring, promotion, compensation, benefits, discipline, termination, and all other terms and conditions of employment. Any applicant or employee who believes they have been discriminated against by the Company or anyone acting on behalf of the Company must report any concerns to their Human Resources Business Partner, Legal, or Compliance immediately. The Company will not retaliate against any individual because they made a good faith report of discrimination.
 North America Disclosure
 The Company is committed to accessibility in its workplaces, including during the job application process. Applicants who may require accommodation during the application process should speak with our HR Services team at 855 444 5678 from 8:00am to 5:30pm ET Monday through Friday.",4.1,"Merck KGaA
-4.1",Bangalore,-1,10000+ Employees,1668,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1668,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,258,541,399.5,['Bangalore'],352,1,0,0,1,1
 Data Scientist DA4AD,₹258K-₹541K (Glassdoor est.),"Aufgaben
 Responsibilities
 Selecting features, building and optimizing classifiers using machine learning and Deep Learning techniques
@@ -1382,7 +1382,7 @@ Proficiency in using query languages such as SQL
 Good applied statistics skills, such as distributions, statistical testing, regression, etc.
 Good scripting and programming skills
 Data-oriented personality",3.9,"Mercedes-Benz Research and Development India Private Limited
-3.9",Bangalore,-1,10000+ Employees,1965,Subsidiary or Business Segment,Vehicle Dealers,Retail,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1965,Subsidiary or Business Segment,Vehicle Dealers,Retail,$10+ billion (USD),-1,0,0,258,541,399.5,['Bangalore'],55,1,0,0,0,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Data Scientist
 We are looking for a Data Scientist to help us create machine learning products. Data Scientist responsibilities include understanding the business problem and experimenting with different modelling architectures to create the best possible setup from model performance as well as computational performance. To do this job successfully, you need exceptional skills in Machine Learning and Programming. Your ultimate goal will be to find the best data-based solution for the problem at hand
 
@@ -1414,7 +1414,7 @@ Mandatory Skills
 R, Python ,Machine leaning
 Desirable Skills
 R, Python ,Machine leaning",4.1,"Thoucentric
-4.1",Bangalore,-1,51 to 200 Employees,2015,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1
+",Bangalore,-1,51 to 200 Employees,2015,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1,0,0,258,541,399.5,['Bangalore'],5,1,0,0,1,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"The Company
 
 Hitachi Vantara, a wholly-owned subsidiary of Hitachi, Ltd., guides our customers from what’s now to what’s next by solving their digital challenges. Working alongside each customer, we apply our unmatched industrial and digital capabilities to their data and applications to benefit both business and society. More than 80% of the Fortune 100 trust Hitachi Vantara to help them develop new revenue streams, unlock competitive advantages, lower costs, enhance customer experiences, and deliver social and environmental value.
@@ -1461,7 +1461,7 @@ BE / B Tech / ME / M Tech
 
 
 We are an equal opportunity employer. All applicants will be considered for employment without attention to age, race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.",3.0,"Hitachi Vantara
-3.0",Pune,-1,5001 to 10000 Employees,1989,Subsidiary or Business Segment,IT Services,Information Technology,Unknown / Non-Applicable,-1
+",Pune,-1,5001 to 10000 Employees,1989,Subsidiary or Business Segment,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,258,541,399.5,['Pune'],31,1,0,1,0,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Job Description
 About the Role: This is a rare opportunity to join a small but fast-growing team, where you will play a major role in shaping Biz2Credit?s future. We?re looking for an exceptional candidate that is excited about the opportunity to build a next-generation financial services business. We believe that there is a tremendous opportunity to leverage cutting-edge data science to inform smarter, faster decision making.
 As a Biz2Credit Data Scientist, you will shape the company?s data-centric culture, work closely with our engineering team to develop our analytics infrastructure, and collaborate closely with our Chief Data Officer on developing, validating, and automating our customer conversion and underwriting models. While a background in financial services is not required, you must be passionate about tackling complex data challenges for the benefit of small and medium businesses everywhere.
@@ -1477,8 +1477,8 @@ Degree in Statistics, Applied Mathematics, Engineering, Computer Science or othe
 2- 4 years experience performing quantitative analysis within self-directed roles.
 Practical hands-on experience in the development and implementation of new predictive models and comfortable in learning new statistical tools and techniques.
 Ability to visualize and communicate sophisticated data and models to all audiences.
-Specific demonstrated experience, knowledge, accuracy and speed of execution in Powerpoint, Excel, Excel VBA and R (knowledge of other programming knowledge and/or Stata is a plus) Highly motivated, versatile, capable of working independently with demonstrated initiative.",3.7,"Biz2Credit Inc
-3.7",Noida,-1,201 to 500 Employees,2007,Company - Private,Lending,Finance,$100 to $500 million (USD),-1
+Specific demonstrated experience, knowledge, accuracy and speed of execution in Powerpoint, Excel, Excel VBA and R (knowledge of other programming knowledge and/or Stata is a plus) Highly motivated, versatile, capable of working independently with demonstrated initiative.",3.7,"Biz
+",Noida,-1,201 to 500 Employees,2007,Company - Private,Lending,Finance,$100 to $500 million (USD),-1,0,0,258,541,399.5,['Noida'],13,0,0,0,0,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Looking for:
 Strong background in Machine Learning and Statistics.
 Fluency in Python and R programming language.
@@ -1493,7 +1493,7 @@ Build models and analyze medical data collected from healthcare devices and apps
 Build models and tools for analyzing pills and different medicine images.
 Expose this data to mobile and web apps to build feature set.
 Job Perks:",4.6,"Cumulations Technologies
-4.6",Bangalore,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Bangalore,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,258,541,399.5,['Bangalore'],-1,1,0,0,0,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"American Express Global Business Travel (GBT) equips companies of all sizes with the insights, tools, services and expertise they need to keep their travelers informed, focused and productive while on the road. With approximately 18,000 employees and operations in nearly 140 countries worldwide, American Express GBT empowers customers to take control of their travel programs, optimizing the return on their travel and meetings investments, while, more importantly, providing extraordinary traveler care.
 We’re moving faster than ever and introducing new products, services, and strategies that will revolutionize the travel industry and bring greater value to our business customers. Our clients’ success expands our success, so we put our heart and soul into helping our clients achieve results that exceed all expectations. As the world’s largest travel management company, we are continuing to build alliances with key travel leaders and suppliers throughout the world, strengthening our position as a quality provider to companies of all sizes. Get ready to make impressions that will last.
 Overview :
@@ -1518,7 +1518,7 @@ Location
 India>Haryana>Gurgaon
 It is our policy to provide equal employment opportunities to all individuals based on job-related qualifications and ability to perform a job, without regard to age, gender, gender identity, sexual orientation, race, color, religion, creed, national origin, disability, genetic information, veteran status, citizenship or marital status, and to maintain a non-discriminatory environment free from intimidation, harassment or bias based upon these grounds.
 GBT Recruitment Privacy Statement",3.7,"American Express Global Business Travel
-3.7",Gurgaon,-1,10000+ Employees,1915,Company - Private,Travel Agencies,Travel & Tourism,Unknown / Non-Applicable,-1
+",Gurgaon,-1,10000+ Employees,1915,Company - Private,Travel Agencies,Travel & Tourism,Unknown / Non-Applicable,-1,0,0,258,541,399.5,['Gurgaon'],105,0,0,0,0,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Requirements
 Should have good knowledge of statistics and machine learning techniques
 Should able able to soft through data and extract the underlying patterns and insights which could be applied to solve the problem or add value
@@ -1547,7 +1547,7 @@ Experience with various sdks like mitie, dib, stanford NLP, etc are preferred
 Good applied statistics skills, such as distributions, statistical testing, regression, etc.
 Understand the high level problem and provide set of solutions to solve it using machine learning or otherwise
 We’re looking for someone with 5-8 years of experience manipulating data sets and building statistical models, has a Master’s or PHD in Statistics, Mathematics, Computer Science or another quantitative field",3.5,"IQLECT
-3.5",Bangalore,-1,1 to 50 Employees,2015,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+",Bangalore,-1,1 to 50 Employees,2015,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,258,541,399.5,['Bangalore'],5,1,0,0,0,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Primary role
 
 Staying abreast with the latest techniques and algorithms used in data analytics and overseeing their adoption by delivery teams. Leading in house efforts in researching newer and novel analytics methodologies. Expected to be actively involved in all stages of solution delivery to the client.
@@ -1575,7 +1575,7 @@ Education
 PhD or MS (with peer reviewed publications) in a quantitative field, such as Physics, Machine Learning, Artificial Intelligence, Statistics, Mathematics, Engineering, etc.
 
 If interested, kindly send your cv on hr@gaugeanalytics.com",3.1,"Gauge Data Solutions
-3.1",Noida,-1,1 to 50 Employees,-1,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+",Noida,-1,1 to 50 Employees,-1,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,258,541,399.5,['Noida'],-1,1,0,0,0,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"We are building our team to offer business and operations analytics solutions to our international and
 domestic clients, and are looking for a Data Scientist with comprehensive knowledge of existing and next
 gen analytics tools and technology platforms. Passionate, self-starter and innovative our Data Scientist will
@@ -1626,7 +1626,7 @@ Desirable Knowledge, Skills & Abilities:
 Ph.D. or Master’s degree in operations research, applied statistics, mathematics, data mining, machine
 learning, physics or a related quantitative discipline
 Management experience in Big Data or Data Analytics practice setup",4.5,"Profisor Services
-4.5",Gurgaon,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Gurgaon,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,258,541,399.5,['Gurgaon'],-1,0,0,0,0,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Job Summary:
 We are a fast growing Managed Service Provider with some of the leading Global Enterprises/Telecom Service Providers as our clients. We are in the process of expanding our India Operations and looking for an experienced Data Scientist professional to join our team.
 Role and Responsibilities –
@@ -1666,7 +1666,7 @@ Data visualisation tools, such as D3.js, GGplot, etc.
 Understanding of popular ITSM and CMDB tools.
 Job Location: Bangalore
 Email : careers@intuitorit.com",4.4,"SoftTech Services
-4.4",Bangalore,-1,51 to 200 Employees,2010,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),-1
+",Bangalore,-1,51 to 200 Employees,2010,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),-1,0,0,258,541,399.5,['Bangalore'],10,1,0,0,0,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Business Unit:
 Cubic Corporation
 Company Details:
@@ -1692,7 +1692,7 @@ Minimum Job Requirements:
 The description provided above is not intended to be an exhaustive list of all job duties, responsibilities and requirements. Duties, responsibilities and requirements may change over time and according to business need.
 Worker Type:
 Employee",3.2,"Cubic Corporation
-3.2",Hyderābād,-1,5001 to 10000 Employees,1951,Company - Public,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),-1
+",Hyderābād,-1,5001 to 10000 Employees,1951,Company - Public,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),-1,0,0,258,541,399.5,['Hyderābād'],69,1,0,0,1,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Description
 BizViz provides a 360 degree view of a business's data, serving any vertical and meeting the demanding needs of all business executives. With a 50+ strong team building the BizViz platform over several years, it is targeted at creating technological solutions that will give our customers the edge they need to succeed.
 We strongly believe that our success lies in the success of our customers. We aim to build applications the way they envisioned, keeping each business' unique ideas and requirements in mind. We offer businesses a better alternative to using standard cookie-cutter ERP templates.
@@ -1721,7 +1721,7 @@ Passion for problem-solving, developing creative solutions, and continuous learn
 Experience in at least one of the following domain - Retail, Healthcare & Education.
 Location
 Bangalore & Hyderabad.",3.0,"BDB
-3.0",Bangalore,-1,51 to 200 Employees,1993,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Bangalore,-1,51 to 200 Employees,1993,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,258,541,399.5,['Bangalore'],27,1,0,0,0,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Data Scientist (Contractor)
 Bangalore, IN
 Responsibilities
@@ -1743,7 +1743,7 @@ Experience with Big data – advantage
 Experience with Spark – big advantage
 Experience with Deep Learning frameworks (PyTorch, TensorFlow, Keras) – advantage.
 Experience in the Telecommunication domain and/or Fraud prevention - advantage",3.6,"Tomia
-3.6",Bangalore,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Bangalore,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,258,541,399.5,['Bangalore'],-1,1,0,1,0,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Two positions are currently available in Pune, India and one position is open in Sunnyvale, CA. Title seniority and salary are set to the experience level of the applicant.
 Role and Responsibilities
 Execute data mining projects, training and deploying models over a typical duration of 2 -12 months.
@@ -1815,7 +1815,7 @@ Give or receive mentoring as part of the collaborative process
 Questions and challenging the status quo with data is safe
 Intellectual curiosity balanced with humility
 Present papers or projects in our “Thought Leadership” meeting series, to support continuous learning",4.1,"Foghorn Systems
-4.1",Pune,-1,51 to 200 Employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",Pune,-1,51 to 200 Employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,258,541,399.5,['Pune'],6,1,0,0,1,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"RESPONSIBILITIES
 To analyse data and support the development of technology tools relevant for the development sector. Work on creating data insights on developmental and public policy issues with a focus on providing knowledge support to policy makers and informing public discourse.
 Support in providing data analytics for all data and technology related projects esp. Jaano India.
@@ -1844,7 +1844,7 @@ Familiarity with MongoDB, Hadoop, Spark.
 Understanding of linear algebra concepts such as matrix manipulations, Eigen values and vectors and multivariable calculus.
 Knowledge regarding government policies, schemes and their implementation.
 Ability to write complex Macros in Excel.",4.1,"Ank Aha
-4.1",New Delhi,-1,1 to 50 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",New Delhi,-1,1 to 50 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,258,541,399.5,['New Delhi'],4,1,0,1,0,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"What we are looking for
 We are looking for data scientists to be based in Hyderabad, India with 3-5 years of experience in statistical modeling and data science.
 
@@ -1884,7 +1884,7 @@ JOB TYPE
 Full Time
 POSTED DATE
 11/25/2020",4.2,"MRoads
-4.2",Hyderābād,-1,201 to 500 Employees,2011,Private Practice / Firm,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),-1
+",Hyderābād,-1,201 to 500 Employees,2011,Private Practice / Firm,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),-1,0,0,258,541,399.5,['Hyderābād'],9,1,0,0,1,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"AppZen is the leader in AI software for finance teams. Over 1,800 global enterprises use AppZen to automate manual finance processes, reduce expenditures, and gain real-time insights into their business spend trends. Our patented software technology delivers AI deep learning, semantic analysis, and Star Match™, the only automated spend validation that processes intelligence from thousands of data sources, documents, and images to understand financial transactions and make decisions based on finance policies. AppZen is the platform of choice for today’s digital CFO and their teams, including four of the top five banks, four of the top ten media companies, four of the top ten pharmaceutical manufacturers, two of the top five aerospace companies, and six of the top ten software providers.
 
 We’ve taken off this year! Since releasing our platform in 2016, over 1,800 enterprises have standardized on AppZen, including three of the top ten banks, four of the top ten media companies, three of the top ten pharmaceutical manufacturers, two of the top five aerospace companies, and five of the top ten software providers. We were a Gartner Cool Vendor, and have been recognized as one of the fastest-growing technology companies in the market. In 2019 we received $50 million in Series C funding from Lightspeed, Redpoint and other leading venture capital firms.
@@ -1901,7 +1901,7 @@ M.Sc. or M.E. or M.Tech in Computer Science, Engineering, Statistics, or other r
 Able to work onsite in Pune, IN
 You are a team player
 Come as you are, we do not discriminate! We celebrate, support, and thrive upon our diverse customer and employee base.",4.1,"AppZen
-4.1",Pune,-1,201 to 500 Employees,2012,Company - Private,Financial Transaction Processing,Finance,$5 to $10 million (USD),-1
+",Pune,-1,201 to 500 Employees,2012,Company - Private,Financial Transaction Processing,Finance,$5 to $10 million (USD),-1,0,0,258,541,399.5,['Pune'],8,1,0,0,0,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Data Scientist
 Location:
 Defence Colony, New Delhi
@@ -1912,7 +1912,7 @@ Putting medical reports and images into an easily searchable structured format f
 Responsible for pulling relevant information from company databases.
 Would have access to high-end servers and other equipment.
 Would have opportunity to work with leading medical imaging companies and universities.",4.0,"Mahajan Imaging
-4.0",New Delhi,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",New Delhi,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,258,541,399.5,['New Delhi'],-1,0,0,0,0,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Before ApplyinG
 We have big plans to disrupt the traditional fundraising process for private businesses
 You will work with a diverse team of former investment bankers, strategy consultants and business owners in developing, monitoring, and improving products to facilitate the activity of private investing
@@ -1954,7 +1954,7 @@ Full-Time
 Industry
 Technology
 Technology",4.4,"Fundnel Pte Ltd
-4.4",Mumbai,-1,1 to 50 Employees,2015,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1
+",Mumbai,-1,1 to 50 Employees,2015,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1,0,0,258,541,399.5,['Mumbai'],5,0,0,1,1,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Experienced professional or an active researcher in one or multiple of the following areas: OCR-ICR technologies, Artificial Intelligence, Semantic Technologies, Natural Language Processing, Image Mining, Pattern Recognition on Digital Media ,and Information Retrieval (handling data types, ranging from traditional structured data, semi-structured data such as logs; text, social networks, audio, images, and video)
 Experience in Neural network, Deep learning (Feed forward, Recursive, Recurrent LSTM, Auto encoder, CNN), Transfer
 Minimum 4-8 years of
@@ -1964,12 +1964,12 @@ Strong knowledge in Capability to develop production ready solution using Python
 Worked as a Data Scientist in the product development project
 Experience in distributed frameworks (e.g. Graph Lab, Spark, Hadoop)
 Experience in Mongo DB, Index server, Graph DB, MQ.",3.3,"Innominds Software
-3.3",Hyderābād,-1,501 to 1000 Employees,2003,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),-1
+",Hyderābād,-1,501 to 1000 Employees,2003,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),-1,0,0,258,541,399.5,['Hyderābād'],17,1,0,1,0,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Title:
 Data ScientistUnder general supervision, independently applies advanced engineering techniques, makes decisions on engineering problems and methods, and represents the organization in conferences to resolve important questions or to negotiate with key engineers and officials of other organizations. Provides technical guidance to designers and less experienced engineers and is consulted extensively by associates and others with a high degree of reliance placed on scientific interpretations and advice. Job role is responsible for a measurable asset such as an assigned staff and budget. Skills are typically acquired through an undergraduate degree in Engineering and a minimum of 7 years related experience, with average experience ranging from 10+ years.
 Scheduled Weekly Hours:
 40",3.7,"KBR
-3.7",Pune,-1,10000+ Employees,1901,Company - Public,Energy,"Oil, Gas, Energy & Utilities",$5 to $10 billion (USD),-1
+",Pune,-1,10000+ Employees,1901,Company - Public,Energy,"Oil, Gas, Energy & Utilities",$5 to $10 billion (USD),-1,0,0,258,541,399.5,['Pune'],119,0,0,0,0,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Position title
 Data Scientist
 Description
@@ -1999,7 +1999,7 @@ Job Responsibilities
 Bachelors/ Masters in Computer Science or Electronics from tier 1 & 2 colleges
 Contacts
 careers@algoscale.com",3.7,"Algoscale
-3.7",Noida,-1,1 to 50 Employees,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+",Noida,-1,1 to 50 Employees,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,258,541,399.5,['Noida'],6,1,0,0,1,1
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Kwalee is a leading independent mobile game developer and publisher based in Leamington Spa – the UK’s biggest gaming hub outside Greater London and a great place to live – along with growing teams in Bangalore and Beijing.
 Now the largest hypercasual games publisher in the UK, Kwalee is a company known globally thanks to half a billion downloads for hit mobile games including Draw it, Bake it, Shootout 3D, Rocket Sky and many more. These successes have driven rapid growth in recent years and with exciting new projects in the works for Nintendo Switch and PC alongside the studio's hypercasual specialism, Kwalee shows no signs of slowing down!
 Founded in 2011 by David Darling CBE, a key architect of the UK games industry who previously co-founded and led Codemasters for many years, our team also includes legends such as Andrew Graham (creator of Micro Machines series) and Jason Falcus (programmer of classics including NBA Jam) alongside a growing and diverse team of mobile gaming experts. Everyone contributes creatively to Kwalee’s success, with all employees eligible to pitch their own game ideas on Creative Wednesdays. Could your idea be the next global hit?
@@ -2031,7 +2031,7 @@ We offer
 We offer a generous benefits package to all our employees that includes a team profit sharing scheme from day 1 of employment among other perks.
 Our philosophy
 We firmly believe in creativity and innovation and that a fundamental requirement for a successful and happy company is having the right mix of individuals. With the right people in the right environment anything and everything is possible.",4.1,"Kwalee
-4.1",Bangalore,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Bangalore,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,258,541,399.5,['Bangalore'],-1,1,0,0,1,0
 Data Scientist,₹258K-₹541K (Glassdoor est.),"Overview:
 The Clinton Health Access Initiative, Inc. (CHAI) is a global health organization committed to saving lives and reducing the burden of disease in low-and middle-income countries, while strengthening the capabilities of governments and the private sector in those countries to create and sustain high-quality health systems that can succeed without our assistance. For more information, please visit: http://www.clintonhealthaccess.org
 
@@ -2082,7 +2082,7 @@ Ability to be effective in high-pressure situations, handle multiple tasks simul
 Ability to absorb and synthesize a broad range of information, especially clinical, scientific and technical manufacturing information
 #jobreference2
 #covidrole",3.9,"Clinton Health Access Initiative
-3.9",New Delhi,-1,501 to 1000 Employees,-1,Nonprofit Organization,Social Assistance,Non-Profit,Less than $1 million (USD),-1
+",New Delhi,-1,501 to 1000 Employees,-1,Nonprofit Organization,Social Assistance,Non-Profit,Less than $1 million (USD),-1,0,0,258,541,399.5,['New Delhi'],-1,1,0,1,0,1
 Data Engineer,₹320K-₹617K (Glassdoor est.),"Join the Selling Partner Premium Services (SPPS) Data Science and Analytics team
 which provides thought leadership and support to improve selling partner (SP) growth, selling partner experience (SPX), program growth and productivity goals across WW premium services. Our tools provide self-service insights to business metric, increase account management (AM) productivity, drive operational efficiencies in our processes and provide competitive advantage to Selling Partner Premium Services (SPPS) business program by using scientific methods and algorithms to extract knowledge and insights from structured and unstructured data
 
@@ -2134,7 +2134,7 @@ In addition to the above qualifications in the role, as a bonus we are looking f
 · Demonstrated ability in delivering solutions using AWS stack; DynamoDB, S3, Kinesis, SQS/SNS, Firehose, Lambda, Elastic Search & EC2.
 · Demonstrated ability to mentor other software developers to maintain architectural vision and software quality
 · Experience in evaluating machine learning techniques and technologies.",4.3,"Amazon
-4.3",Chennai,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1
+",Chennai,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1,0,0,320,617,468.5,['Chennai'],26,1,0,0,1,0
 Machine Learning Engineer,₹320K-₹617K (Glassdoor est.),"About Us
 
 
@@ -2175,7 +2175,7 @@ Good to have skills
 • Experience with Java or Scala will be a big plus.
 • Experience of developing Data Pipeline for ML Applications
 • Exposure to NLP and Text mining",4.0,"Morgan Stanley
-4.0",Bangalore,-1,10000+ Employees,1935,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1935,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),-1,0,0,320,617,468.5,['Bangalore'],85,1,0,1,0,1
 Principal Data Scientist,₹320K-₹617K (Glassdoor est.),"Position – Principal Data Scientist
 
 Location – Bangalore
@@ -2215,7 +2215,7 @@ Basic knowledge of cloud computing and AWS services.
 Qualification – B.Tech/M.Tech/MCA(IT/Computer Science)
 
 Years of Exp – 8-10+",3.5,"upGrad Education Private Limited
-3.5",Bangalore,-1,1001 to 5000 Employees,2015,Company - Private,Education Training Services,Education,$10 to $25 million (USD),-1
+",Bangalore,-1,1001 to 5000 Employees,2015,Company - Private,Education Training Services,Education,$10 to $25 million (USD),-1,0,0,320,617,468.5,['Bangalore'],5,1,0,0,1,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"Seniority Level : Associate
 Industry : Information Technology & Services
 Employment Type : Full-time
@@ -2243,7 +2243,7 @@ Identify enhancements and follow best practices that can help to improve the pro
 Academic Qualification:
 Master’s degree or above in Computer Science, Computational linguistics, Mathematics, Physics or electrical engineering with research experience from a strong academic program along with thesis with Publication record in top conferences / journals.
 Apply Now",3.4,"Maxbyte Technologies Private Limited
-3.4",Coimbatore,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Coimbatore,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,320,617,468.5,['Coimbatore'],-1,1,0,0,1,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"You:
 You are a data scientist who is passionate about producing data products and striving for excellence to serve customers with high quality technical solutions. You enjoy the work you are doing; continuously innovate, advance ideas to build better products and generate more insight. You thrive in an agile, fast-paced and highly collaborate team environment.
 
@@ -2275,7 +2275,7 @@ Preferred Qualifications:
 Understanding of media and the statistical algorithms typically used in marketing analytics.
 Experience deploying and maintaining machine learning models
 Experience working in industries such as healthcare, retail, financial services, telecommunications and automotive (including in a client-facing consulting or advisory capacity)",3.7,"Apptio
-3.7",Bangalore,-1,501 to 1000 Employees,2007,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",Bangalore,-1,501 to 1000 Employees,2007,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,320,617,468.5,['Bangalore'],13,1,0,0,1,1
 Data scientist,₹320K-₹617K (Glassdoor est.),"Cyware is where you belong!
 Cyware offers the technology organizations need to build a virtual cyber fusion center. With separate but integrated solutions including an advanced threat intel platform (TIP), vendor-agnostic security automation (SOAR), and security case management, organizations are able to increase speed and accuracy while reducing costs and analyst burn out. Cyware's virtual cyber fusion solutions make secure collaboration, information sharing, and enhanced threat visibility a reality for enterprises, sharing communities (ISAC/ISAO), MSSPs, and government agencies of all sizes and needs.
 Why We Are Hiring:
@@ -2329,7 +2329,7 @@ We offer competitive compensation packages. We deeply value the talent our team 
 And so much more…
 How to Apply
 Apply right here. You've found the application!",3.6,"Cyware
-3.6",Bangalore,-1,51 to 200 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",Bangalore,-1,51 to 200 Employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,320,617,468.5,['Bangalore'],4,1,0,1,0,1
 Data Scientist,₹320K-₹617K (Glassdoor est.),"Gurugram
 
 Experience
@@ -2362,7 +2362,7 @@ Any Query
 Please, fill in the form to submit your Resume
 
 Upload your Resume",4.2,"Pure Software
-4.2",Gurgaon,-1,501 to 1000 Employees,1991,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+",Gurgaon,-1,501 to 1000 Employees,1991,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,320,617,468.5,['Gurgaon'],29,1,0,1,0,0
 Senior Data Scientist : Cloud (JoinOCI-SDE),₹320K-₹617K (Glassdoor est.),"The Oracle Data Science Cloud Service team is seeking a Backend Software Engineer to join our engineering team. We are addressing exciting challenges at the intersection of data science and cutting edge infrastructure. Machine Learning tools/workflows, data integrations and Kubernetes based infrastructure are key areas for us.
 Our current backend tech stack is Go, Python and Node.js.
 What you’ll do
@@ -2388,7 +2388,7 @@ Design, develop, troubleshoot and debug software programs for databases, applica
 As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.
 
 Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience.",3.7,"Oracle
-3.7",Bangalore,-1,10000+ Employees,1977,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1977,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),-1,0,0,320,617,468.5,['Bangalore'],43,1,0,0,0,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"Data Scientist
 
 At Razorpay, we rely on insightful data to power our systems and solutions. We’re seeking experienced data scientists to deliver those insights to us on a daily basis. Our ideal team member will have the mathematical and statistical expertise you’d expect, along with natural curiosity and creative mind that’s not so easy to find. As you mine, interpret, and clean the data, we will rely on you to ask questions, connect the dots, and uncover opportunities that lie hidden with the ultimate goal of realizing the data’s full potential. You are expected to bring in a strong experience of using a variety of data mining methods and tools in building models and running simulations. You must have a proven ability to drive business results with data-based insights and more importantly you should be comfortable working with a wide range of stakeholders and functional teams. You will be instrumental in helping the business continue its evolution into an analytical and data-driven culture.
@@ -2420,7 +2420,7 @@ Experience with data visualisation tools such as D3.js, GGplot.
 Proficiency in using query languages such as SQL.
 Experience with NoSQL databases such as MongoDB, Cassandra, HBase is desired.
 Experience with distributed data/computing tools like Map/Reduce, Hadoop, Hive, Spark is a big plus.",3.9,"Razorpay
-3.9",Bangalore,-1,501 to 1000 Employees,2014,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+",Bangalore,-1,501 to 1000 Employees,2014,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,320,617,468.5,['Bangalore'],6,1,0,1,0,1
 Machine Learning Engineer,₹320K-₹617K (Glassdoor est.),"Job Description:
 
 Responsibilities
@@ -2442,7 +2442,7 @@ Skills:
 • Experienced with machine learning frameworks and libraries
 
 Tensorflow, Keras, Scikit, Pytorch, OpenCV, OCR, Yolo etc.,",3.9,"Paypal
-3.9",Chennai,-1,10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),-1
+",Chennai,-1,10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),-1,0,0,320,617,468.5,['Chennai'],22,1,0,0,0,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"Bottomline is at the forefront of digital transformation. We are a growing global market leader uniquely equipped to address the changing needs of how businesses pay and get paid. Our culture of Working with and for each other enables us to delight our customers. We empower our teams to think like owners driving customer delight, helping them grow their business and win in their markets.
 We are looking for Data Scientist to innovate, win, and grow with us in Bangalore, India.
 As a member of Central Data & Analytics Team, you will be developing software to be used for a range of machine learning and data mining techniques, including predictive modeling, anomaly detection, customer profiling and segmentation, recommendations, text analytics, and big data analytics in solving our business problems. You will take an idea from conception and experimentation to design and implementation to deployment and production. In this role, you will interact with a team of experts in Machine Learning and Data Mining.
@@ -2464,7 +2464,7 @@ Outstanding communication and presentational skills
 You'll love Botttomline because in everything we do we seek to delight our customers and we are passionate about building a company of which we can all be proud, and this starts with building amazing teams filled with team members that challenge you every day.
 Start your #LifeAtBT
 Public cloud AWS, ML, DL, NPL, Python, Java, Scala, Hadoop, Spark, Docker, Kubernetes, Agile, Scrum",3.7,"Bottomline Technologies
-3.7",Bangalore,-1,1001 to 5000 Employees,1989,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),-1
+",Bangalore,-1,1001 to 5000 Employees,1989,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),-1,0,0,320,617,468.5,['Bangalore'],31,1,0,1,1,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"Data Scientist
 Thiruvananthapuram
 
@@ -2513,7 +2513,7 @@ They are focused on incubating to accelerate the first mile and guiding the jour
 
 Email ID
 swati5547@gmail.com",4.0,"HR Devi and Associates
-4.0",Thiruvananthapuram,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Thiruvananthapuram,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,320,617,468.5,['Thiruvananthapuram'],-1,0,0,0,0,1
 Senior Data Scientist,₹320K-₹617K (Glassdoor est.),"As the tech firm that created the mobile world, and with more than 54,000 patents to our name, we’ve made it our business to make a mark. When joining our team at Ericsson you are empowered to learn, lead and perform at your best, shaping the future of technology. This is a place where you're welcomed as your own perfectly unique self, and celebrated for the skills, talent, and perspective you bring to the team. Are you in?
 
 Come, and be where it begins.
@@ -2546,7 +2546,7 @@ We will ensure that individuals with disabilities are provided reasonable accomm
 Do you believe that an organization fostering an environment of cooperation and collaboration to execute with speed creates better business value? Do you value a culture of humanness, where fact based decisions are important and our people are encouraged to speak up? Do you believe that diverse, inclusive teams drive performance and innovation? At Ericsson, we do.
 
 We provide equal employment opportunities without regard to race, color, gender, sexual orientation, transgender status, gender identity and/or expression, marital status, pregnancy, parental status, religion, political opinion, nationality, ethnic background, social origin, social status, indigenous status, disability, age, union membership or employee representation and any other characteristic protected by local law or Ericsson’s Code of Business Ethics.",4.0,"Ericsson-Worldwide
-4.0",Chennai,-1,10000+ Employees,1876,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),-1
+",Chennai,-1,10000+ Employees,1876,Company - Public,Telecommunications Services,Telecommunications,$10+ billion (USD),-1,0,0,320,617,468.5,['Chennai'],144,1,0,1,0,0
 Machine Learning - Data Analytics Scientist 3,₹320K-₹617K (Glassdoor est.),"Machine Learning - Data Analytics Scientist 3-2000128Y
 
 Applicants are required to read, write, and speak the following languages: English
@@ -2599,7 +2599,7 @@ Location: IN-IN,India-Bengaluru
 Other Locations: IN-IN,India-Noida
 Job Type: Regular Employee Hire
 Organization: Oracle",3.7,"Oracle
-3.7",Bangalore,-1,10000+ Employees,1977,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1977,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),-1,0,0,320,617,468.5,['Bangalore'],43,1,0,0,1,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"1. Work with clients to identify opportunities for leveraging company data to drive business solutions.
 2. Mine and analyze data from company databases, live feeds, third pary sources etc to drive optimization and improvement of product development, marketing techniques and business strategies.
 3. Assess the effectiveness and accuracy of new data sources and data gathering techniques.
@@ -2651,7 +2651,7 @@ Location:
 Bangalore, India
 
 Travel Needs:
-Occasional Travel to Client Locations.",-1,Germane Analytics Pvt Ltd,Bangalore,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Occasional Travel to Client Locations.",-1.0,Germane Analytics Pvt Ltd,Bangalore,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,320,617,468.5,['Bangalore'],-1,1,0,1,0,1
 Data Scientist I,₹320K-₹617K (Glassdoor est.),"08-Dec-2020
 
 Job ID
@@ -2669,7 +2669,7 @@ Job ID
 
 Position Title
 Data Scientist I",4.1,"Novartis
-4.1",Hyderābād,-1,10000+ Employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1
+",Hyderābād,-1,10000+ Employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,320,617,468.5,['Hyderābād'],24,0,0,0,0,0
 Senior Data Scientist,₹320K-₹617K (Glassdoor est.),"Job Title
 Senior Data Scientist
 
@@ -2714,7 +2714,7 @@ o Demonstrated success in data science platforms like Kaggle.
 Equal Opportunity Employer Statement
 
 Walmart Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity, unique styles, experiences, identities, ideas and opinions – while being inclusive of all people.",3.3,"Walmart
-3.3",Bangalore,-1,1001 to 5000 Employees,1962,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),-1
+",Bangalore,-1,1001 to 5000 Employees,1962,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),-1,0,0,320,617,468.5,['Bangalore'],58,1,0,1,0,0
 Senior Data Scientist,₹320K-₹617K (Glassdoor est.),"Job Description
 
 Posting Title: Senior Data Scientist
@@ -2749,7 +2749,7 @@ Posted Date: 2020-10-05
 VMware Company Overview: At VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape whats possible today at http://careers.vmware.com.
 
 Equal Employment Opportunity Statement: VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.",4.3,"VMware
-4.3",Bangalore,-1,10000+ Employees,1998,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),-1
+",Bangalore,-1,10000+ Employees,1998,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),-1,0,0,320,617,468.5,['Bangalore'],22,1,0,1,1,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"We are looking to hire Data Scientists with at least 5 years of technical experience working with data and deploying analytical solutions. Qualified candidates must have a Bachelor’s of Science degree in a technical field. Ideal candidates have technical skills and analytic tool experience in several of the following areas:
 
 Technical Areas:
@@ -2767,7 +2767,7 @@ Qualifications: Graduate degrees with 2 years of experience
 Domain Expertise: national security, intelligence, counterintelligence, insider threat, biometrics, counter-terrorism, case support, executive protective, behavioral science, continuous evaluation, information security, cyber security, CBRN-WMD, emerging technologies/threats, S&T, R&D
 
 COSO IT is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.",3.0,"Coso IT
-3.0",Bangalore,-1,1 to 50 Employees,-1,Company - Private,Computer Hardware & Software,Information Technology,Less than $1 million (USD),-1
+",Bangalore,-1,1 to 50 Employees,-1,Company - Private,Computer Hardware & Software,Information Technology,Less than $1 million (USD),-1,0,0,320,617,468.5,['Bangalore'],-1,1,0,1,0,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"Job Title: Data Scientist
 Experience: 5 to 10 years
 Job Location: Hyderabad
@@ -2794,7 +2794,7 @@ Preferred Location
 Reason for Job
 
 5.00-10.00 Years",4.0,"Ness Technologies India Private Limited
-4.0",Hyderābād,-1,5001 to 10000 Employees,1999,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1
+",Hyderābād,-1,5001 to 10000 Employees,1999,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1,0,0,320,617,468.5,['Hyderābād'],21,0,0,0,0,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"Basic Info
 Location
 Bangalore, Karnataka, India
@@ -2837,14 +2837,14 @@ Reference Number
 IN75203288_E2
 Publication date
 2020-11-23",4.1,"ABB
-4.1",Bangalore,-1,10000+ Employees,1883,Company - Public,Energy,"Oil, Gas, Energy & Utilities",$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1883,Company - Public,Energy,"Oil, Gas, Energy & Utilities",$10+ billion (USD),-1,0,0,320,617,468.5,['Bangalore'],137,1,0,0,0,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy
 
 Conversant with python, mysql, good at mathematics/statistics, strong sense of logic
 
 0.00-1.00 Years
 Masters in Technology (M.Tech/M.E/M.Sc), Master in Computer Application (M.C.A)",3.6,"Axxonet System Technologies Private Limited
-3.6",Bangalore,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Bangalore,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,320,617,468.5,['Bangalore'],-1,1,0,0,0,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"Profile Requirements
 Analyze and dig out carefully vetted, actionable insights from (mostly! pre-cleaned) data.
 Turn insights into precise changes in the system; applying a toolset including calculus, statistical modeling, advanced algorithms, and machine learning to create measurable dollar impact.
@@ -2862,7 +2862,7 @@ Experience in C a big plus.
 Experience in statistical inference and causal experimentation design a big plus.
 Knowledge of data visualization tools like Tableau/Power Bi etc will be an added advantage
 Pay Scale : 4.8 Lac – 13.0 Lac
-Positions : 3",-1,SearchUrCollege,Noida,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Positions : 3",-1.0,SearchUrCollege,Noida,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,320,617,468.5,['Noida'],-1,1,0,0,0,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"About Mindcurv
 We help our customers rethink their digital business, experiences, and technology to navigate the new digital reality. We do this by designing sustainable and accountable solutions for humans living in a digital world. Mindcurv holistically covers the market’s need to digitize business processes and customer experiences and take advantage of the cloud following DevOps and agile principles.
 Within Digital Platforms & Experiences we design and fully craft tailored solutions for our customers enabling them to get the most out of their business. We design and build a solid foundation in commerce, marketplace, responsive design, DXP and order management to name a few.
@@ -2897,7 +2897,7 @@ Join a collaborative environment and work with the latest technologies. We’ll 
 If you agree with our philosophy and share our values, we are looking forward to meeting you as soon as possible!
 Powered by JazzHR
 XPDNahdd6I",4.5,"mindcurv
-4.5",Cochin,-1,201 to 500 Employees,2011,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+",Cochin,-1,201 to 500 Employees,2011,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,320,617,468.5,['Cochin'],9,1,0,1,1,1
 Business Analyst - Data Scientist,₹320K-₹617K (Glassdoor est.),"With a startup spirit and 90,000+ curious and courageous minds, we have the expertise to go deep with the world’s biggest brands—and we have fun doing it. Now, we’re calling all you rule-breakers and risk-takers who see the world differently, and are bold enough to reinvent it. Come, transform with us.
 Transformation happens here. Come, be a part of our exciting journey!
 Are you the one we are looking for?
@@ -2936,7 +2936,7 @@ Conflict management and negotiation skills
 Skill gap identification and development of our global teams
 Excellent verbal and written communication skills
 Genpact is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws. Genpact is committed to creating a dynamic work environment that values diversity and inclusion, respect and integrity, customer focus, and innovation. For more information, visit www.genpact.com. Follow us on Twitter, Facebook, LinkedIn, and YouTube.",3.8,"Genpact
-3.8",Bangalore,-1,10000+ Employees,1997,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),-1
+",Bangalore,-1,10000+ Employees,1997,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),-1,0,0,320,617,468.5,['Bangalore'],23,1,0,1,1,1
 Data Scientist,₹320K-₹617K (Glassdoor est.),"We are looking for strong Data Scientists/Analysts, who will be problem solvers, using predictive modelling techniques and machine learning algorithms, to solve complex business problems in credit and risk domains, and also provide business strategies.
 Roles and Responsibilities:
 Use of cutting edge machine learning techniques for solving supervised and unsupervised learning problems
@@ -2954,7 +2954,7 @@ Experience with the following machine learning algorithms desirable: Gradient Bo
 Experience with NoSQL and distributed data processing technologies such as Hadoop is also desirable
 Bachelor or Master in Operations Research, Computer Engineering or in closely related Quantitative Disciplines from a premier institution.
 Interested? Please send your resume to careersindia@applieddatafinance.com.",4.4,"Applied Data Finance
-4.4",Chennai,-1,51 to 200 Employees,2014,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1
+",Chennai,-1,51 to 200 Employees,2014,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1,0,0,320,617,468.5,['Chennai'],6,1,0,0,0,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"As a Data Scientist at TEAL, you'll be taking the plunge into a rich data lake that includes everything from satellite data to legal court orders. You'll be hustling and getting your hands dirty with every part of the data pipeline always having an implicit appreciation for how all of this data will ultimately power a revolutionary real estate risk platform.
 Your day-to-day will include either all or some of the following:
 Cleaning, organizing, and analyzing data
@@ -2972,7 +2972,7 @@ Are always hungry to learn newer and better technologies to make the data ecosys
 Extra brownie points if you:
 Have some experience working with large-scale data visualisations
 Have performed real estate analyses in some capacity",4.9,"Terra Economics & Analytics Lab (TEAL)
-4.9",New Delhi,-1,1 to 50 Employees,2018,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",New Delhi,-1,1 to 50 Employees,2018,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,320,617,468.5,['New Delhi'],2,1,0,0,0,0
 Data Scientist,₹320K-₹617K (Glassdoor est.),"The Role
 General Position Definition
 Finance & Data Operations Data Science Team is tasked with delivering tangible value to business units within Shell through data-driven decision making.
@@ -2996,7 +2996,7 @@ High Proficient in SQL or ABAP or Python or any other programming language
 Prior experience of working with data visualization tools such as SAP Lumira, SAP BO, Tableau, Qlikview or PowerBI
 Disclaimer
 Please note: We occasionally amend or withdraw Shell jobs and reserve the right to do so at any time, including prior to the advertised closing date. Before applying, you are advised to read our data protection policy. This policy describes the processing that may be associated with your personal data and informs you that your personal data may be transferred to Royal Dutch/Shell Group companies around the world. The Shell Group and its approved recruitment consultants will never ask you for a fee to process or consider your application for a career with Shell. Anyone who demands such a fee is not an authorised Shell representative and you are strongly advised to refuse any such demand. Shell is an Equal Opportunity Employer.",4.1,"Shell
-4.1",Chennai,-1,10000+ Employees,1907,Company - Public,Oil & Gas Exploration & Production,"Oil, Gas, Energy & Utilities",$10+ billion (USD),-1
+",Chennai,-1,10000+ Employees,1907,Company - Public,Oil & Gas Exploration & Production,"Oil, Gas, Energy & Utilities",$10+ billion (USD),-1,0,0,320,617,468.5,['Chennai'],113,1,0,0,0,0
 Data Scientists,₹320K-₹617K (Glassdoor est.),"Data Scientists:
 Our Data Scientists are quantitative analysts who can extract meaningful insights from customer data, and leverage predictive models to optimize business performance. They support Risk management, Marketing, Capital Markets, Operations and Finance teams. This is a strategic role that sits at the heart of value creation by turning data into a long term competitive advantage.
 As a Senior Data Scientist you will...
@@ -3038,7 +3038,7 @@ No. of Positions
 Education level
 Career level
 Experienced",4.8,"Bloom Consulting Services
-4.8",Bangalore,-1,1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Less than $1 million (USD),-1
+",Bangalore,-1,1 to 50 Employees,2015,Company - Private,IT Services,Information Technology,Less than $1 million (USD),-1,0,0,320,617,468.5,['Bangalore'],5,1,0,0,1,1
 Data Scientist,₹320K-₹617K (Glassdoor est.),"Do you feel passionately about solving problems through data? Have you spent 2+ years solving business problems through data?
 Do you aspire to take data science to millions of people out there? Can the leader in you make people follow data science out of sheer passion? Would you enjoy helping people solve problems with out expecting any thing in return?
 If the answer to all the questions is yes – look no more. Analytics Vidhya is looking for evangelists who can carry and deliver their baton to the world.
@@ -3069,7 +3069,7 @@ Where is the role based?
 We would love to have you in our office in Gurgaon.
 
 If the role excites you, drop an email to hiring@analyticsvidhya.com with your CV, mentioning “Why do you think you are the perfect fit for this role”.",4.0,"Analytics Vidhya
-4.0",Gurgaon,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Gurgaon,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,320,617,468.5,['Gurgaon'],-1,1,0,0,0,0
 Assistant Manager - Data Scientist,₹320K-₹617K (Glassdoor est.),"With a startup spirit and 90,000+ curious and courageous minds, we have the expertise to go deep with the world’s biggest brands—and we have fun doing it. Now, we’re calling all you rule-breakers and risk-takers who see the world differently, and are bold enough to reinvent it. Come, transform with us.
 Are you the one we are looking for?
 We are inviting applications for the role of AM, Data Scientist
@@ -3098,7 +3098,7 @@ Should possess good interpersonal skills
 Innovative and always looking for continuous improvement
 Communicate with clients on day-to-day basis to discuss project progress
 Genpact is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws. Genpact is committed to creating a dynamic work environment that values diversity and inclusion, respect and integrity, customer focus, and innovation. For more information, visit www.genpact.com. Follow us on Twitter, Facebook, LinkedIn, and YouTube.",3.8,"Genpact
-3.8",Bangalore,-1,10000+ Employees,1997,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),-1
+",Bangalore,-1,10000+ Employees,1997,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),-1,0,0,320,617,468.5,['Bangalore'],23,1,0,0,1,0
 Data Scientist Position (Audio Analytics),₹320K-₹617K (Glassdoor est.),"Sciffer is creating a video and audio analytics platform to help producers, editors, broadcasters and digital platforms analyze, collaborate, review, and edit content. One of the key elements of this platform is audio & speech. A few of the objectives are automated speech recognition (ASR), text to speech (TTS), speech to text (STT), and natural language processing (NLP). We are looking for data scientists with a strong background in both deep learning and audio & speech to help develop better and more creative models in the area.
 Responsibilities: - Research and implement novel approaches and models for audio and speech - Staying up to date on industry trends and best practices - Breaking down a complex problem into simpler elements & solving them Required
 Qualifications: - Graduate in Electrical / Electronics / Computer Science Engineering with specialization in signal/speech processing - 1 to 4 years of relevant experience - Proficiency in Python, R, SQL Server & C++
@@ -3110,7 +3110,7 @@ Education:
 Bachelor's (Preferred)
 Work Remotely:
 Yes, temporarily due to COVID-19",5.0,"Sciffer Analytics Private Limited
-5.0",Pune,-1,1 to 50 Employees,-1,Company - Public,-1,-1,Less than $1 million (USD),-1
+",Pune,-1,1 to 50 Employees,-1,Company - Public,-1,-1,Less than $1 million (USD),-1,0,0,320,617,468.5,['Pune'],-1,1,0,0,0,0
 Data Engineer: Data Integration,₹363K-₹664K (Glassdoor est.),"Introduction
 At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.
 
@@ -3153,7 +3153,7 @@ For additional information about location requirements, please discuss with the 
 
 Being You @ IBM
 IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.",4.0,"IBM
-4.0",Bangalore,-1,10000+ Employees,1911,Company - Public,IT Services,Information Technology,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1911,Company - Public,IT Services,Information Technology,$10+ billion (USD),-1,0,0,363,664,513.5,['Bangalore'],109,0,0,0,0,1
 Data Science for AI/Advance Analytic,₹363K-₹664K (Glassdoor est.),"With a startup spirit and 90,000+ curious and courageous
 minds, we have the expertise to go deep with the world’s biggest brands—and we
 have fun doing it. Now, we’re calling all you rule-breakers and risk-takers who
@@ -3249,7 +3249,7 @@ is committed to creating a dynamic work environment that values diversity and
 inclusion, respect and integrity, customer focus, and innovation. For more
 information, visit www.genpact.com. Follow us on Twitter, Facebook, LinkedIn,
 and YouTube.",3.8,"Genpact
-3.8",Hyderābād,-1,10000+ Employees,1997,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),-1
+",Hyderābād,-1,10000+ Employees,1997,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),-1,0,0,363,664,513.5,['Hyderābād'],23,1,0,0,1,1
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Ahmedabad
 Be a part of the movement to revolutionize the in-store customer experience through the loyalty program and the other features we have to offer.We believe in creating memories that will last forever. We want to help businesses develop personal connections with their customers and provide the customers with experiences that they will cherish forever and will keep them coming back.
 We’re scrappy, hard-working perfectionists looking for people who can add immediate value to our team. As a member of the founding team of # Loyalty, you will have the opportunity to work across different business verticals in an extremely faced paced environment. You'll play a key role in product development, strategy and other business decision.
@@ -3269,10 +3269,10 @@ Should be able to handle a team technically.
 Experience
 PHP: 1+ years (Preferred)
 
-Contact Us to Apply : (+91) 851 187 8094 info@r3coder.com",-1,R3coder,Ahmedabad,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Contact Us to Apply : (+91) 851 187 8094 info@r3coder.com",-1.0,R,Ahmedabad,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,363,664,513.5,['Ahmedabad'],-1,1,0,0,0,0
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Job Description
 IMG Systems, Inc. seeks Master’s+1yr/Bachelor’s+5yrs exp/equiv. Data Scientist (IMGDS18): Data Visualization, Natural Language Processing (NLP), Machine Learning (ML), Python, Numpy. Mail resume with job ID to: HR, 400 Chisholm Place, Suite 414, Plano, TX 75075. Travel to unanticipated work sites throughout the U.S. Foreign equiv. accepted.",3.1,"IMG Systems
-3.1",Hyderābād,-1,1 to 50 Employees,-1,Company - Private,Consulting,Business Services,$1 to $5 million (USD),-1
+",Hyderābād,-1,1 to 50 Employees,-1,Company - Private,Consulting,Business Services,$1 to $5 million (USD),-1,0,0,363,664,513.5,['Hyderābād'],-1,1,0,0,0,0
 Data Science,₹363K-₹664K (Glassdoor est.),"Accenture is a leading global professional services company, providing a broad range of services in strategy and consulting, interactive, technology and operations, with digital capabilities across all of these services. We combine unmatched experience and specialized capabilities across more than 40 industries powered by the worlds largest network of Advanced Technology and Intelligent Operations centers. With 506,000 people serving clients in more than 120 countries, Accenture brings continuous innovation to help clients improve their performance and create lasting value across their enterprises. Visit us at www.accenture.com
 
 Role :Digital Data Engineering Practitioner
@@ -3291,7 +3291,7 @@ Good to Have:
 2 Experience using cloud services: RDS, Athena, Redshift, Kinesis, S3, AWS glue
 3 Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks
 4 Exp in visualizing/presenting data for stakeholders using: AWS Quicksight, Tableau, Periscope, Business Objects, D3, ggplot",3.9,"Accenture
-3.9",Hyderābād,-1,10000+ Employees,1989,Company - Public,Consulting,Business Services,$10+ billion (USD),-1
+",Hyderābād,-1,10000+ Employees,1989,Company - Public,Consulting,Business Services,$10+ billion (USD),-1,0,0,363,664,513.5,['Hyderābād'],31,1,0,1,1,0
 Senior Data Scientist,₹363K-₹664K (Glassdoor est.),"Senior Data Scientist
 The Group: Morningstar’s Research group provides independent analysis on individual securities, funds, markets, and portfolios. The Research group also provides data on hundreds of thousands of investment offerings, including stocks, mutual funds, and similar vehicles, along with real-time global market data on millions of equities, indexes, futures, options, commodities, and precious metals, in addition to foreign exchange and Treasury markets. Morningstar is one of the largest independent sources of fund, equity, and credit data and research in the world, and our advocacy for investors’ interests is the foundation of our company.
 
@@ -3337,7 +3337,7 @@ Intermediate knowledge of statistical methods is desirable
 Morningstar is an equal opportunity employer.
 
 I10_MstarIndiaPvtLtd Morningstar India Private Ltd. (Delhi) Legal Entity",4.0,"Morningstar
-4.0",Mumbai,-1,5001 to 10000 Employees,1984,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),-1
+",Mumbai,-1,5001 to 10000 Employees,1984,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),-1,0,0,363,664,513.5,['Mumbai'],36,1,0,1,1,0
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Technical Skills:
 A Ph.D., (or master’s degree plus at least 8 years’ relevant experience), in Computer Science, Statistics, Linguistics, Mathematics, Economics, Physics, or a related scientific discipline.
 5+ years of experience working with large datasets for drawing business insights.
@@ -3358,13 +3358,13 @@ Excellent written and verbal communication skills as well as active listening sk
 Demonstrated analytical abilities
 Experience managing and/or mentoring junior developers
 Experience with Agile/SCRUM development methodologie",4.8,"Firminiq
-4.8",Chandigarh,-1,51 to 200 Employees,2018,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),-1
+",Chandigarh,-1,51 to 200 Employees,2018,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),-1,0,0,363,664,513.5,['Chandigarh'],2,1,0,1,0,1
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Key Responsibilities: Team leads for small or module leads for large teams. Responsible for delivery of assigned module/ components /phases of a project.Responsible for people Management, including goal setting and providing performance feedback.Responsible for Status reporting .Responsible for Knowledge transfer and arriving at SLAs for steady state.Technical problem solving skills. Job Requirement and Skills Has a good practical understanding of technology and its application. Good grasp of technology and tools used for development. Good design skills and architectural skills in the technical area.Fair amount of domain expertise gained through working on the application or certification programs (if working in a vertical).Good understanding of the sphere of activities in a horizontal domain. Anticipates and resolves potential problems , handles escalations. Supervisory Level: Works under general supervision with few direct instructions. Carries out routine and semi-routine tasks. Provides input to project-related decisions.People Interactions Within own team or department at operational level.Contact with user/customer at peer / first /middle management level. Qualifications
 
 About ECS
 
 ECS is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., ECS is ranked 205 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how ECS helps clients lead with digital at www.theecsinc.com or follow us on Twitter:ECS.",3.5,"ECS
-3.5",Chennai,-1,501 to 1000 Employees,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+",Chennai,-1,501 to 1000 Employees,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,363,664,513.5,['Chennai'],12,0,0,0,0,0
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Req ID:73477
 We create smart innovations to meet the mobility challenges of today and tomorrow. We design and manufacture a complete range of transportation systems, from high-speed trains to electric buses and driverless trains, as well as infrastructure, signalling and digital mobility solutions. Joining us means joining a truly global community of more than 36 300 people dedicated to solving real-world mobility challenges and achieving international projects with sustainable local impact.
 OVERALL PURPOSE OF THE ROLE
@@ -3459,7 +3459,7 @@ An agile, inclusive and responsible culture is the foundation of our company whe
 Job Type:Experienced
 
 Job Segment: Database, Procurement, Product Development, SQL, Technology, Operations, Research",3.8,"ALSTOM
-3.8",Bangalore,-1,10000+ Employees,1928,Company - Public,Industrial Manufacturing,Manufacturing,$5 to $10 billion (USD),-1
+",Bangalore,-1,10000+ Employees,1928,Company - Public,Industrial Manufacturing,Manufacturing,$5 to $10 billion (USD),-1,0,0,363,664,513.5,['Bangalore'],92,1,0,1,1,1
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Responsibilities:
 Undertake preprocessing of structured and unstructured data.
 Build data products to extract valuable business insights
@@ -3473,7 +3473,7 @@ Fluency in at least one scripting language
 Excellent analytical and problem-solving skills
 Excellent communication skills and business acumen
 Good command in written and spoken English",4.0,"RedLotus
-4.0",Mumbai,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Mumbai,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,363,664,513.5,['Mumbai'],-1,0,0,0,0,1
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Overview:
 Are you passionate about applying data science and artificial intelligence to solve some of the world’s biggest challenges? So are we! Esri is the world leader in geographic information systems (GIS) and developer of ArcGIS, the leading mapping and analytics software used in 75 percent of Fortune 500 companies. At the Esri R&D Center-New Delhi, we are applying cutting-edge AI and deep learning techniques to revolutionize geospatial analysis and derive insight from imagery and location data.
 Our team develops tools, APIs, and AI models for geospatial analysts and data scientists, enabling them to leverage the latest research in spatial data science, AI and geospatial deep learning.
@@ -3516,7 +3516,7 @@ Esri is an equal opportunity employer (EOE) and all qualified applicants will re
 
 If you need a reasonable accommodation for any part of the employment process, please email humanresources@esri.com and let us know the nature of your request and your contact information. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this e-mail address.
 #LI-CK1",3.7,"ESRI, Inc.
-3.7",New Delhi,-1,1001 to 5000 Employees,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),-1
+",New Delhi,-1,1001 to 5000 Employees,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),-1,0,0,363,664,513.5,['New Delhi'],51,1,0,0,0,0
 Data Scientist-1,₹363K-₹664K (Glassdoor est.),"We are looking for an analyst to develop PayPals Risk strategy within the Next-Generation Platforms & Strategic Partners portfolio. This portfolio is comprised of PayPals newest leading-edge payments solutions (including new form factors, in-store payments, and payment tokens), as well as customized experiences developed for the companys highest-priority strategic partnerships.
 
 PayPals Next-Generation Platforms Consumer Risk team is responsible for assessing and managing buyer-side financial risk exposures for this $8 billion portfolio (including identity theft, stolen financials, account takeover, and credit risk), as well as developing and implementing the policies, treatments, and experiences related to the management of these exposures. The team is also responsible for partnering with the corresponding Business Units to align with and influence their strategic priorities, educate business partners about Risk management principles, and collaboratively optimize the Risk treatments and experiences for these unique products and partners.
@@ -3532,7 +3532,7 @@ Polished communication skills risk analysts need to collaborate cross-functional
 Can-do attitude, team player, energetic personality, ability to work well under pressure in a fast-paced and constantly changing environment to meet deadlines. The successful risk analyst is a self-starter who has the resilience to learn from their mistakes and reach their true potential.
 An innate intellectual curiosity, and a willingness to build awareness of current payments industry and risk management best practices. PayPal is constantly innovating by introducing new products and entering new markets, so successful risk analysts on this team must quickly get up speed on new content areas.
 Bachelors degree with 4+ years of experience, MS degree with 2+ year of experience",3.9,"Paypal
-3.9",Bangalore,-1,10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),-1,0,0,363,664,513.5,['Bangalore'],22,0,0,0,0,1
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Required Experience
 Minimum : 4 years Maximum : 8 years
 
@@ -3557,7 +3557,7 @@ Analytical mind and business acumen
 Strong math skills (e.g. statistics, algebra)
 Problem-solving aptitude
 Excellent communication and presentation skills",4.2,"Akeo Software Solutions
-4.2",Jaipur,-1,1 to 50 Employees,2012,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+",Jaipur,-1,1 to 50 Employees,2012,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,363,664,513.5,['Jaipur'],8,1,0,0,0,1
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Job Description
 We are looking for a Data Scientist that will help us discover the information hidden in vast amounts of data, and help us make smarter decisions to deliver even better products. Your primary focus will be in applying data mining techniques, doing statistical analysis, and building high quality prediction systems integrated with our products.
 Responsibilities
@@ -3583,7 +3583,7 @@ Good team player who is a self-starter and well organized.
 Strong oral and written communication skills.
 Required Education
 Graduate degree in Math, Statistics, Computer Science, or other quantitative discipline.
-Please email your resume to careers@gtpltech.com",-1,GridEdge Technologies,Pune,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Please email your resume to careers@gtpltech.com",-1.0,GridEdge Technologies,Pune,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,363,664,513.5,['Pune'],-1,1,0,1,0,1
 Data Engineer,₹363K-₹664K (Glassdoor est.),"The Red Hat Global Business Delivery (GBD) Sales and Services Business Finance team is looking for an experienced Data Engineer to join us in Pune, India. In this role, your responsibilities will include cross-referencing, data massaging, and data reconciliation across different systems like Red Hat Enterprise Linux (RHEL) data sources, Salesforce.com (SFDC), Amazon Web Services (AWS) Redshift, commissions systems, and Oracle. You will serve as the primary point of contact for sales reporting, sales planning, and strategic analysis support. As a Data Engineer, you will be responsible for continuous improvement of ongoing reporting and analysis processes, automating or simplifying self-service support for business users and stakeholders. You will also be responsible for performance tuning, creating new tables, write Python scripts, and complex SQL queries and serve as a point of contact for business users, gathering requirements and delivering complete reporting solutions.
 
 Write complex, highly-optimized SQL queries across large datasets; be involved in SQL query tuning and follow provided tuning recommendations
@@ -3608,7 +3608,7 @@ Red Hat is the world’s leading provider of enterprise open source software sol
 Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, uniformed services, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.
 
 Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.",4.2,"Red Hat
-4.2",Pune,-1,10000+ Employees,1993,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),-1
+",Pune,-1,10000+ Employees,1993,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),-1,0,0,363,664,513.5,['Pune'],27,1,0,0,1,0
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Data Sciences team at Priority Vendor uses data and algorithms to build large scale systems to enable better decision making for the invoice discounting as well as render better customer experience to suppliers. Some of the areas of our focus are Rate Determination, Demand Sensing, Recommendation Systems, etc.
 
 Some of the things we are working on:
@@ -3649,7 +3649,7 @@ Information retrieval,
 Data mining
 
 NLP",4.0,"Priority Vendor
-4.0",Noida,-1,51 to 200 Employees,2014,Company - Private,-1,Finance,Unknown / Non-Applicable,-1
+",Noida,-1,51 to 200 Employees,2014,Company - Private,-1,Finance,Unknown / Non-Applicable,-1,0,0,363,664,513.5,['Noida'],6,1,0,1,0,0
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Key Responsibilities & Accountabilities:
 Work in projects pertaining to O&G to identify issues and use data to propose solutions for
 effective decision making
@@ -3686,7 +3686,7 @@ Experience in Data Visualization, Cleansing, analysis, Root cause analysis
 Experience in Deep learning techniques is a plus 1
 
 5.00-10.00 Years",3.7,"TransAltus Management consulting Private Limited
-3.7",Bangalore,-1,51 to 200 Employees,2011,Contract,IT Services,Information Technology,Unknown / Non-Applicable,-1
+",Bangalore,-1,51 to 200 Employees,2011,Contract,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,363,664,513.5,['Bangalore'],9,1,0,1,0,0
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Min. Exp: Fresher or higher
 Ahmedabad, India
 
@@ -3717,7 +3717,7 @@ You work hard and like variety in your projects
 You like variety in your projects.
 You want to be proud of what you do at your job
 Interested applicants should send their resume and cover letter at career@iqm.com",3.5,"iqm.com
-3.5",Ahmedabad,-1,1 to 50 Employees,2014,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+",Ahmedabad,-1,1 to 50 Employees,2014,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,363,664,513.5,['Ahmedabad'],6,1,0,1,0,0
 Data Scientist,₹363K-₹664K (Glassdoor est.),"We have position for DATA Scientist with one of our client, Hyderabad
 
 Exp- 2-3 Years
@@ -3750,7 +3750,7 @@ Cell : +91 9356211697
 website : www.acmeture.com
 
 2.00-3.00 Years
-Bachelor Of Technology (B.Tech/B.E)",-1,Acmeture Global Consulting Services,Hyderābād,-1,1 to 50 Employees,-1,Self-employed,-1,-1,Less than $1 million (USD),-1
+Bachelor Of Technology (B.Tech/B.E)",-1.0,Acmeture Global Consulting Services,Hyderābād,-1,1 to 50 Employees,-1,Self-employed,-1,-1,Less than $1 million (USD),-1,0,0,363,664,513.5,['Hyderābād'],-1,1,0,0,0,1
 Senior Data Scientist,₹363K-₹664K (Glassdoor est.),"PhonePe's mission is to make it easy and secure for our customers to use and manage their
 money via a purely digital, mobile experience. The data science team at PhonePe
 contributes to this mission by using the power of big data and advances in machine learning
@@ -3792,7 +3792,7 @@ o Experience using machine learning (structured, text, video data) libraries
 o Experience using visualization libraries
 Good to have: Hands-on experience with source control and deployment tools (Git,
 Jenkins, etc.).",3.7,"PhonePe
-3.7",Pune,-1,51 to 200 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Pune,-1,51 to 200 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,363,664,513.5,['Pune'],-1,1,0,1,0,0
 Data Scientist,₹363K-₹664K (Glassdoor est.),"JOB Brief
 The team is looking for a Data Science Manager who is responsible for driving revenue growth and by building Predictive, Prescriptive, Analytics Models/Data Science solutions using AI/ML/DL Technologies
 Data Science Manager will lead all the presales activities across the organization by partnering with sales teams and account teams, solutions team and emerging tech capability team to develop new and innovative solutions, create contextual pitches, explore new markets and customers, create new GTMs and thereby increase AI adoption share for the organization and execute practice growth strategies. He/she will implement programs, processes and tooling to deliver high quality pre-sales and solution experiences.
@@ -3826,7 +3826,7 @@ Strong business acumen to understand business objectives & dynamics and possess 
 Experience in analysing complex problems and translating them to data science algorithms with due attention to computational efficiency and testing at scale.Roles and Responsibilities
 
 9.00-14.00 Years",3.2,"Virtusa Software Services Private Limited
-3.2",Chennai,-1,10000+ Employees,1996,Company - Public,IT Services,Information Technology,$500 million to $1 billion (USD),-1
+",Chennai,-1,10000+ Employees,1996,Company - Public,IT Services,Information Technology,$500 million to $1 billion (USD),-1,0,0,363,664,513.5,['Chennai'],24,1,0,0,0,1
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Job Summary
 Published on : 3 days ago
 Vacancy : 7
@@ -3859,7 +3859,7 @@ Skills
 Data Management , Data Analysis , Teradata , Datastage ,
 Qualifications
 BE / B.Tech Engineering - Computer Science / IT",3.4,"AI Engineer
-3.4",New Delhi,-1,51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",New Delhi,-1,51 to 200 Employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,363,664,513.5,['New Delhi'],8,1,0,0,0,0
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Requirements / Responsibilities:
 Should have 5 years of experience
 Focus on customer requirement and implementation
@@ -3880,7 +3880,7 @@ Work with engineers to translate prototypes into new products, services, and fea
 Research, Recommend and implement best practices of machine learning systems that can scale.
 Stay current with the recent advancements in ML/AI industry like tensor flow & actively prototype with these open-source frameworks.
 Work closely with management to prioritize business and information needs",3.5,"Inspirisys Solutions
-3.5",Chennai,-1,1001 to 5000 Employees,-1,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),-1
+",Chennai,-1,1001 to 5000 Employees,-1,Company - Public,IT Services,Information Technology,$2 to $5 billion (USD),-1,0,0,363,664,513.5,['Chennai'],-1,1,0,0,0,0
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Logistics done differently.
 At XPO Logistics, we’re constantly looking for ways to improve, enhance and adapt in an ever-changing marketplace. The selected candidate will possess a combination of data science skills including data wrangling, advanced programming and statistical analysis (machine learning and data mining). Further, this individual will be able to take complex data, analyze it, draw meaningful conclusions and communicate findings in a manner that can be easily understood by a wide variety of audiences
 
@@ -3905,7 +3905,7 @@ Be part of something big.
 XPO is a leading provider of cutting-edge supply chain solutions to the most successful companies in the world. We help our customers manage their goods most efficiently using our technology and services. Our greatest strength is our global team – energetic, innovative people of all experience levels and talents who make XPO a great place to work.
 
 The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified. All employees may be required to perform duties outside of their normal responsibilities from time to time, as needed.",3.7,"XPO Logistics
-3.7",Mumbai,-1,10000+ Employees,2011,Company - Public,Transportation Management,Transportation & Logistics,$10+ billion (USD),-1
+",Mumbai,-1,10000+ Employees,2011,Company - Public,Transportation Management,Transportation & Logistics,$10+ billion (USD),-1,0,0,363,664,513.5,['Mumbai'],9,1,0,0,0,0
 DATA SCIENTIST,₹363K-₹664K (Glassdoor est.),"Position Title
 DATA SCIENTIST
 
@@ -3988,7 +3988,7 @@ Rockwell Automation, Inc. (NYSE: ROK), is a global leader in industrial automati
 
 Work State/City
 Pune",3.8,"Rockwell Automation
-3.8",Pune,-1,10000+ Employees,1903,Company - Public,Industrial Manufacturing,Manufacturing,$5 to $10 billion (USD),-1
+",Pune,-1,10000+ Employees,1903,Company - Public,Industrial Manufacturing,Manufacturing,$5 to $10 billion (USD),-1,0,0,363,664,513.5,['Pune'],117,1,0,0,0,1
 Data Scientist II,₹363K-₹664K (Glassdoor est.),"What's the role?
 
 
@@ -4013,7 +4013,7 @@ Who are we?
 HERE Technologies is a location data and technology platform company. We empower our customers to achieve better outcomes – from helping a city manage its infrastructure or a business optimize its assets to guiding drivers to their destination safely.
 
 At HERE we take it upon ourselves to be the change we wish to see. We create solutions that fuel innovation, provide opportunity and foster inclusion to improve people’s lives. If you are inspired by an open world and driven to create positive change, join us. Learn more about us. Watch Video",3.8,"HERE Technologies
-3.8",Mumbai,-1,5001 to 10000 Employees,1984,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+",Mumbai,-1,5001 to 10000 Employees,1984,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,363,664,513.5,['Mumbai'],36,1,0,0,0,0
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Job description
 Responsibilities for Data Scientist
 Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
@@ -4032,7 +4032,7 @@ Knowledge of a variety of machine learning techniques (clustering, decision tree
 Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
 Excellent written and verbal communication skills for coordinating across teams.
 A drive to learn and master new technologies and techniques.",3.6,"Diverse Lynx India
-3.6",Bangalore,-1,501 to 1000 Employees,2002,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1
+",Bangalore,-1,501 to 1000 Employees,2002,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1,0,0,363,664,513.5,['Bangalore'],18,1,0,0,0,1
 Data Analyst,₹363K-₹664K (Glassdoor est.),"Site Name: India - Karnataka - Bengaluru
 Posted Date: Jul 23 2020
 
@@ -4096,7 +4096,7 @@ It has come to our attention that the names of GlaxoSmithKline or GSK or our gro
 GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKilne (or GSK) group company at any worldwide location. Even if they claim that the money is refundable.
 
 If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in gsk.com, you should disregard the same and inform us by emailing askus@gsk.com, so that we can confirm to you if the job is genuine.",4.0,"GlaxoSmithKline
-4.0",Bangalore,-1,10000+ Employees,1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,363,664,513.5,['Bangalore'],190,0,0,0,0,1
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Educational qualifications
 B Tech/ BE, M.Sc.(Maths) or M Tech/ MS or equivalent in Mechanical/Metallurgical/ Electrical/ Electronics/ Computer Science/Instrumentation/Industrial Engineering/Operations Research or in any other relevant discipline.
 
@@ -4120,7 +4120,7 @@ Statistics, Data analytics, Artificial intelligence, programming, system enginee
 Coding in R/ Python language is Compulsory.
 
 Behavioral Competencies
-Learning inclination, Collaboration, Achievement orientation, change orientation",-1,Imurgence,Jamshedpur,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Learning inclination, Collaboration, Achievement orientation, change orientation",-1.0,Imurgence,Jamshedpur,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,363,664,513.5,['Jamshedpur'],-1,1,0,0,0,0
 Data Analyst - Advanced Analytics,₹363K-₹664K (Glassdoor est.),"Analyst:
 
 
@@ -4172,7 +4172,7 @@ Perceptive is known for its employee friendly approach. You will have continuous
 
 
 Every employee here is an owner of his/her project. Direct connect with the clients gives a complete freedom to an employee to handle their projects. Different industry projects lead to exposure to an employee. There is no space for monotony - every day is a new challenge.",4.0,"Perceptive Analytics
-4.0",Hyderābād,-1,1 to 50 Employees,2013,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1
+",Hyderābād,-1,1 to 50 Employees,2013,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1,0,0,363,664,513.5,['Hyderābād'],7,1,0,0,0,1
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Netomi is a Y-Combinator and VC-backed Artificial Intelligence company that sits at the intersection of two rapidly developing fields: AI and customer service. Our clients include Fortune 1,000 companies. Our artificial intelligence platform gives customer service teams the ability to activate, manage & train their AI to deliver an experience that delights consumers and turns customer service into a competitive advantage.
 
 We care about building a company that not only has the best technology and product on the market but also provides superior service to our customers.
@@ -4201,7 +4201,7 @@ Experience working with a wide variety of statistical models such as linear/logi
 Knowledge of Natural Language Processing (NLP) techniques (POS Tagging, NER, Semantic Role Labelling etc.) and good working experience with at least one of the frameworks (e.g. Stanford NLP, Apache Open NLP, Mallet,Ling pipe, NLTK).
 Deep knowledge and experience in both key areas Information Extraction (from structured and unstructured data and represent that knowledge) Knowledge Information Retrieval.
 It would be good to have if candidate has knowledge of Deep Learning(ANN,CNN,RBM) and has NLP Deep Learning experience related to Word2Vec, Thought Vectors.",4.9,"Netomi
-4.9",Gurgaon,-1,51 to 200 Employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",Gurgaon,-1,51 to 200 Employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,363,664,513.5,['Gurgaon'],5,0,0,0,0,0
 Data Scientist,₹363K-₹664K (Glassdoor est.),"Job Details
 Requirement Type
 Permanent
@@ -4249,7 +4249,7 @@ Kochi
 
 Required Skills
 Data scientist",3.0,"Six Sigma
-3.0",Cochin,-1,51 to 200 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Cochin,-1,51 to 200 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,363,664,513.5,['Cochin'],-1,0,0,0,0,0
 Analyst/Senior Analyst - Data Science,₹570K-₹905K (Glassdoor est.),"Job
 Description
 
@@ -4310,7 +4310,7 @@ Designation
 Senior Data Scientist
 
 Apply",3.7,"Tredence
-3.7",Bangalore,-1,501 to 1000 Employees,2013,Company - Private,Consulting,Business Services,$25 to $50 million (USD),-1
+",Bangalore,-1,501 to 1000 Employees,2013,Company - Private,Consulting,Business Services,$25 to $50 million (USD),-1,0,0,570,905,737.5,['Bangalore'],7,1,0,0,0,1
 Research Scientist - IBM Research,₹570K-₹905K (Glassdoor est.),"Introduction
 IBM Research Scientists are charting the future of Artificial Intelligence, creating breakthroughs in quantum computing, discovering how blockchain will reshape the enterprise, and much more. Join a team that is dedicated to applying science to some of today's most complex challenges, whether its discovering a new way for doctors to help patients, teaming with environmentalists to clean up our waterways or enabling retailers to personalize customer service.
 
@@ -4360,7 +4360,7 @@ For additional information about location requirements, please discuss with the 
 
 Being You @ IBM
 IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.",4.0,"IBM
-4.0",Bangalore,-1,10000+ Employees,1911,Company - Public,IT Services,Information Technology,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1911,Company - Public,IT Services,Information Technology,$10+ billion (USD),-1,0,0,570,905,737.5,['Bangalore'],109,0,0,0,0,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Data Scientist
 Large Banking MNC
 5 - 10 years
@@ -4371,7 +4371,7 @@ Job Description
 The senior data scientist will get the opportunity to work in an agile software development enviornment addressing machine learning and optimization analytics problems. The senior data scientist will be part of cross diciplinary data science team working on software development projects, typically involving large, complex data sets. They will work with technical team in development and deployment and application of predictive analytics.
 Key Skills Required
 Demonstrated skill of data cleansing, data qualityy assesment. Use the descriptive statistics, feature extraction and predictive analytics on real datasets. Skills at data visualization and storytelling for an audience of stakeholders. Experience in working with Hadoop and spark will be added advantages.",4.3,"TALCHEMIST
-4.3",Bangalore,-1,1 to 50 Employees,-1,Company - Public,-1,-1,Less than $1 million (USD),-1
+",Bangalore,-1,1 to 50 Employees,-1,Company - Public,-1,-1,Less than $1 million (USD),-1,0,0,570,905,737.5,['Bangalore'],-1,0,0,1,0,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Apply
 share this job
 Email Job
@@ -4393,7 +4393,7 @@ Technology Prowess in R/Python/SAS/SQL/ R Shiny and other self-service tools (KN
 - Cloud Platforms - AWS, Google or Azure
 What's on Offer
 Chance to work on leading problems using the newest technology available in a fast and stable environment",3.6,"Michael Page
-3.6",Mumbai,-1,201 to 500 Employees,-1,Company - Private,Security Services,Business Services,Less than $1 million (USD),-1
+",Mumbai,-1,201 to 500 Employees,-1,Company - Private,Security Services,Business Services,Less than $1 million (USD),-1,0,0,570,905,737.5,['Mumbai'],-1,1,0,0,1,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Job Description :
 
 We are looking for a Data Scientist that will help us discover the information hidden in vast amounts of data, and help us make smarter decisions to deliver even better products. Your primary focus will be in applying data mining techniques, doing statistical analysis, and building high quality prediction systems integrated with our products like: automate scoring using machine learning techniques, build recommendation Engines/systems, optimize and extend the features used by our existing classifier, etc
@@ -4435,7 +4435,7 @@ Important:
 Should be able to appear for personal interview in our office at Navi Mumbai. Do not apply if you can not appear for personal interview. No telephone round will be conducted.
 
 2.00-7.00 Years",4.2,"Allerin Tech Private Limited
-4.2",Mumbai,-1,51 to 200 Employees,2006,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),-1
+",Mumbai,-1,51 to 200 Employees,2006,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),-1,0,0,570,905,737.5,['Mumbai'],14,1,0,0,0,1
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Role Overview
 
 We are looking to hire a data scientist who will work with various cross-functional teams such as product, marketing, engineering, sales and customer success to develop and deliver data structures, statistical models, reports and deep-dive analysis that will provide actionable recommendations for Zeta’s businesses. We are looking for a problem solver with strong analytical and problem-solving skills who has a good understanding of statistics and machine learning, and able to work on projects from conceptualization to execution.
@@ -4471,7 +4471,7 @@ Our business comprises:
 
 Zeta currently provides its platform and products to BFSI issuers in India, Asia, and LATAM. The product offerings are used by banks like RBL Bank, IDFC First Bank and Kotak Mahindra Bank, 14000 corporates and over 2 million users. Zeta is a SOC 2, ISO 27001, ISO 9008, PCI DSS certified company. The company has over 500 employees and clocks over 1 million transactions per day.
 Zeta® was awarded the best B2B platform and the best Payment App at the Payments and Cards Summit 2018. The company was also recognised as one of India’s most innovative product companies at NASSCOM Emerge 50 awards 2017 and was named the Fintech Rising Star for 2017 by the India FinTech forum.",4.2,"Zeta
-4.2",Bangalore,-1,201 to 500 Employees,2015,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+",Bangalore,-1,201 to 500 Employees,2015,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,570,905,737.5,['Bangalore'],5,1,0,0,0,0
 Data Scientist DA4AD,₹570K-₹905K (Glassdoor est.),"Data Scientist DA4AD
 Description
 
@@ -4517,7 +4517,7 @@ Primary Location
 India-Karnataka-Bangalore
 Work Locations
 Mercedes-Benz Research & Development India, Embassy Crest 'Embassy Crest' Plot No 5, EPIP Zone, Phase 1, 560 066",4.1,"Daimler
-4.1",Bangalore,-1,10000+ Employees,1886,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1886,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,570,905,737.5,['Bangalore'],134,1,0,0,0,1
 Senior Data and Applied Scientist,₹570K-₹905K (Glassdoor est.),"This role offers you the unique opportunity to work at the interface of research and product to develop novel machine learning solutions for cloud infrastructure (AIOps).
 We are a small team in Office 365. We closely collaborate with researchers and core engineering teams across the globe to develop solution with high business impact that allow to scale our service while reducing cost and maintaining reliability.
 
@@ -4545,7 +4545,7 @@ Ability to work independently and in a team, take initiative and lead engagement
 Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
 
 Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",4.4,"Microsoft
-4.4",Bangalore,-1,10000+ Employees,1975,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1975,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),-1,0,0,570,905,737.5,['Bangalore'],45,0,0,0,1,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Job Description :
 The Company
 nbsp;
@@ -4598,7 +4598,7 @@ BE / B Tech / ME / M Tech
 We are an equal opportunity employer. All applicants will be considered for employment without attention to age, race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.
 
 0.00-50.00 Years",3.6,"Hitachi
-3.6",Pune,-1,10000+ Employees,1910,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),-1
+",Pune,-1,10000+ Employees,1910,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),-1,0,0,570,905,737.5,['Pune'],110,1,0,1,0,1
 Data Scientist,₹570K-₹905K (Glassdoor est.),"FiFyles is changing lives!
 As Data Scientist eager to jump into brand new learning experiences, you’ll have fun analyzing complex, massive data sets. If this sounds like you, please read on!
 
@@ -4638,7 +4638,7 @@ BS / MS / PhD in a quantitative discipline (applied mathematics, statistics, CS,
 5+ years of experience using quantitative approaches to solve challenging and meaningful analytical problems (or equivalent)
 Proficiency in programming and the use of analytic tools to perform rapid design, prototyping, analysis, simulation of, and experimentation with, advanced algorithms and applications (such as Matlab / Mathematica, Java, Ruby, Python, and experience in various relational and non-relational databases)
 Solid grounding in applied mathematics and statistics including expertise in Bayesian modeling, multivariate regression, logistic regression, machine learning, cluster analysis, decision analysis, time series analysis and forecasting, factor analysis, structural equation modeling, item response theory, Markov chains, and data visualization (preferred)
-Startup or equivalent experience (preferred) and the drive to live the dream (required)",-1,Fitfyles,New Delhi,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Startup or equivalent experience (preferred) and the drive to live the dream (required)",-1.0,Fitfyles,New Delhi,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,570,905,737.5,['New Delhi'],-1,1,0,0,0,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Ready to be a Cooper too? This might just be right up your alley!
 We’re here to keep the dream of home ownership alive. Oh, and while we’re at it, we’re determined to change the lending industry itself. It’s simple, but it won’t be easy. And we’ll need a great team behind us. (That’s where you come in.) We want to show the world that transparency, candor and collaboration aren’t just good values. They’re good business. Working here isn’t for people who want to punch a clock. It’s for people who want to punch a hole in the status quo. Come join us. And make a difference instead of just a living.
 Role/Responsibilities:
@@ -4683,7 +4683,7 @@ Information Technology
 Additional Posting Location(s):
 Alternate Requisition:
 No",3.4,"Xome
-3.4",Chennai,-1,5001 to 10000 Employees,1994,Company - Public,Lending,Finance,$5 to $10 billion (USD),-1
+",Chennai,-1,5001 to 10000 Employees,1994,Company - Public,Lending,Finance,$5 to $10 billion (USD),-1,0,0,570,905,737.5,['Chennai'],26,1,0,0,0,0
 Applied Scientist,₹570K-₹905K (Glassdoor est.),"Excited by Big Data, Machine Learning and Predictive Software? Interested in creating new state-of-the-art solutions using Machine Learning and Data Mining techniques on Terabytes of Data?
 At Amazon, we are developing state-of-the-art large-scale Machine Learning Services and Applications on the Cloud involving Terabytes of data. We work on applying predictive technology to a wide spectrum of problems in areas such as Amazon Retail, Seller Services, Customer Service, Alexa, Chatbots and so on. We are looking for talented and experienced Machine Learning Scientists (Masters/Ph.D. in a related area preferred) who can apply innovative Machine Learning techniques to real-world e-Commerce problems. You will get to work in a team dedicated to advancing Machine Learning technology at Amazon and converting it to business-impacting solutions.
 Major responsibilities
@@ -4713,7 +4713,7 @@ Preferred Qualifications
 - Experience working with distributed systems and grid computing
 - Knowledge of the latest and state of the art ML technology
 - Publications or presentation in recognized Machine Learning and Data Mining journals/conferences",4.3,"Amazon
-4.3",Bangalore,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1994,Company - Public,Internet,Information Technology,$10+ billion (USD),-1,0,0,570,905,737.5,['Bangalore'],26,1,0,0,0,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Required Experience, Skills and Qualifications :
 Basic understanding of statistics, linear algebra and calculus.
 
@@ -4767,7 +4767,7 @@ big data
 
 About Company
 Email ID
-getintouch@saffroncareers.in",-1,Saffron Consultancy Services,New Delhi,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+getintouch@saffroncareers.in",-1.0,Saffron Consultancy Services,New Delhi,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,570,905,737.5,['New Delhi'],-1,1,0,1,0,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"5+ Years
 Coimbatore | Chennai
 
@@ -4812,7 +4812,7 @@ Exposure to Big data stack is good to have
 
 But in addition to all this technical experience and expertise, if you have great communication skills and a strong
 work ethic, take ownership of duties and perform well against timelines, you’d be the best fit for us.",4.5,"Payoda
-4.5",Coimbatore,-1,201 to 500 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1
+",Coimbatore,-1,201 to 500 Employees,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1,0,0,570,905,737.5,['Coimbatore'],15,1,0,0,0,1
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Join us as a Data Scientist
 We’ll look to you to evaluate and improve the business processes and products using scientific rigor and statistical methods
 This is an opportunity to participate in the data scientist community to identify and deliver opportunities to support the bank’s strategic direction through better use of data
@@ -4836,7 +4836,7 @@ Experience working as part of a multidisciplinary team
 Expertise with statistical data analysis such as linear models, multivariate analysis, stochastic models and sampling methods
 Experience in deploying machine learning models into a production environment
 WCB",3.9,"NatWest Group
-3.9",New Delhi,-1,10000+ Employees,1727,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),-1
+",New Delhi,-1,10000+ Employees,1727,Company - Public,Banks & Credit Unions,Finance,$10+ billion (USD),-1,0,0,570,905,737.5,['New Delhi'],293,1,0,1,0,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Company Description
 Arista recently acquired the Awake Security NDR (Network Detection and Response) platform and is excited to create and scale a team in the Bangalore Development Center to develop and execute product test automation.
 Arista has ambitious plans to grow the Bangalore-based Development Center in the next couple of years and now is a great time to join the team when you can have a significant impact on the shape and direction as the office grows.
@@ -4861,7 +4861,7 @@ Qualifications
 
 Additional Information
 All your information will be kept confidential according to EEO guidelines.",4.1,"Arista Networks
-4.1",Bangalore,-1,1001 to 5000 Employees,2004,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),-1
+",Bangalore,-1,1001 to 5000 Employees,2004,Company - Public,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),-1,0,0,570,905,737.5,['Bangalore'],16,1,0,0,0,0
 "Manager, Data Science",₹570K-₹905K (Glassdoor est.),"At Aera, we deliver the cognitive technology that enables the Self-Driving Enterprise™: a Cognitive Operating System™ that connects you with your business and autonomously orchestrates your operations. Aera's Cognitive OS leverages the best of artificial intelligence, machine learning, natural language processing, big data, and enterprise domain expertise to deliver Cognitive Automation at scale for some of the world's largest companies.
 Aera is currently seeking a Manager, Data Science to join our global Data Science team to lead and mentor our team of data scientists in Pune. As Manager, Data Science you will lead our efforts to solve challenging customer problems through in-depth data and predictive analytics techniques. This role is an ideal opportunity for someone who enjoys working on new and challenging data science problems as well as managing a team of high performing data scientists.
 This role is critical to Aera’s mission and success and is a great opportunity for the right leader. This role will report to our Pune-based Director of Data Science
@@ -4891,7 +4891,7 @@ Knowledge of supply chain would be preferred
 At Aera, we're on a mission to solve the biggest, most intractable challenges in the world of enterprise software. We envision the rise of the Self-Driving Enterprise: a more autonomously functioning business with a central operating system that connects and orchestrates business operations. Our Cognitive Operating System is increasingly used by the world's largest companies to fundamentally transform their organizations and how work is done.
 
 If you share our passion for building the next generation of enterprise software, and deploying it for the most sophisticated customers in the world, you’ve met your match. Headquartered in Mountain View, California, we're growing fast, with teams in Mountain View and San Francisco (California), Bucharest and Cluj-Napoca (Romania), Paris (France), Munich (Germany), London (UK), Pune and Bangalore (India), Sydney (Australia) and Singapore. So join us, and let’s build the future of work together!",3.6,"Aera Technology
-3.6",Pune,-1,201 to 500 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",Pune,-1,201 to 500 Employees,2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,570,905,737.5,['Pune'],3,1,0,1,1,1
 Machine Learning Lead / Data Scientist,₹570K-₹905K (Glassdoor est.),"Position Description for Machine Learning Lead / Data Scientist
 
 The Technology & Operations Risk (TOR) organization at Morgan Stanley has the following mission: Deliver first-line defenses to manage risks to Firm technology and information, and to manage cyber threats through risk identification, control management and assurance. This allows the business to operate and grow in a secure and legally-compliant manner. Our vision is to deliver Programs that protect and enable the business, ensure secure delivery of services to our clients, adjust to address the risks presented by an evolving threat landscape, meet regulatory expectations, and offer highly attractive career opportunities.
@@ -4940,7 +4940,7 @@ Skills Desired
 - Experience of developing Data Pipeline for ML Applications
 - Exposure to NLP and Text mining
 - Access Management domain knowledge",4.0,"Morgan Stanley
-4.0",Bangalore,-1,10000+ Employees,1935,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1935,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),-1,0,0,570,905,737.5,['Bangalore'],85,1,0,1,0,1
 Global Medical Data Scientist,₹570K-₹905K (Glassdoor est.),"Site Name: India - Karnataka - Bengaluru
 Posted Date: Dec 8 2020
 
@@ -4993,7 +4993,7 @@ It has come to our attention that the names of GlaxoSmithKline or GSK or our gro
 GlaxoSmithKline does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection with recruitment with any GlaxoSmithKilne (or GSK) group company at any worldwide location. Even if they claim that the money is refundable.
 
 If you come across unsolicited email from email addresses not ending in gsk.com or job advertisements which state that you should contact an email address that does not end in gsk.com, you should disregard the same and inform us by emailing askus@gsk.com, so that we can confirm to you if the job is genuine.",4.0,"GlaxoSmithKline
-4.0",Bangalore,-1,10000+ Employees,1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1
+",Bangalore,-1,10000+ Employees,1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,570,905,737.5,['Bangalore'],190,1,0,1,0,1
 Data Scientist,₹570K-₹905K (Glassdoor est.),"About us & Vision
 Sequretek is an Indian MNC focused on Information Security and Information Management space. The company is backed by industry veterans who have come together with a vision to build India’s leading Information Security company.
 Sequretek’s customers have appreciated its solution offerings, and within a short span the company has acquired marquee clientele in Financial, Pharmaceutical, IT/ITES, and Retail and Logistics sectors.
@@ -5032,7 +5032,7 @@ Has the capability to translate and implement newly published research on specif
 Experienced wrangling large volumes of data and applying machine learning techniques towards real product and business problems
 Invests time in research including publications, and is committed to keeping up with AI trends
 Develop working prototypes of algorithms and evaluate and compare metrics based on large, real-world data sets",3.8,"Sequretek
-3.8",Bangalore,-1,201 to 500 Employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",Bangalore,-1,201 to 500 Employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,570,905,737.5,['Bangalore'],7,1,0,0,0,1
 Associate Scientist - Analytical Science,₹570K-₹905K (Glassdoor est.),"Relocation Assistance Offered Within Country
 # 94061 - Mumbai, Maharashtra, India
 
@@ -5091,7 +5091,7 @@ Are you interested in working for Colgate-Palmolive? You can apply online and at
 Colgate-Palmolive is a leading global consumer products company, tightly focused on Oral Care, Personal Care, Home Care and Pet Nutrition. Colgate sells its products in over 200 countries and territories around the world under such internationally recognized brand names as Colgate, Palmolive, elmex, Tom’s of Maine, Sorriso, Speed Stick, Lady Speed Stick, Softsoap, Irish Spring, Protex, Sanex, Elta MD, PCA Skin, Ajax, Axion, Fabuloso, Soupline and Suavitel, as well as Hill’s Science Diet and Hill’s Prescription Diet.
 For more information about Colgate’s global business, visit the Company’s web site at http://www.colgatepalmolive.com. To learn more about Colgate Bright Smiles, Bright Futures® oral health education program, please visit http://www.colgatebsbf.com. To learn more about Hill's and the Hill’s Food, Shelter & Love program please visit http://www.hillspet.com. To learn more about Tom’s of Maine please visit http://www.tomsofmaine.com.
 Reasonable accommodation during the application process is available for persons with disabilities. Please contact Application_Accommodation@colpal.com with the subject ""Accommodation Request"" should you require accommodation.",4.1,"Colgate-Palmolive
-4.1",Mumbai,-1,10000+ Employees,1806,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1
+",Mumbai,-1,10000+ Employees,1806,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,570,905,737.5,['Mumbai'],214,0,0,0,0,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Company Overview
 Looking for Data Scientist with one of the leading Management Consulting firm in Gururgam /Bangalore/Mumbai.
 
@@ -5099,7 +5099,7 @@ Candidate needs to have hands-on, “expert” level experience in building soph
 This needs to have been one of their primary job responsibilities, so that they should have done it multiple times. They should also have done this with large datasets (millions of rows)
 Lead brainstorming sessions, create analytical plan, provide guidance to junior team members, identify value creation areas, evaluate predictive models & algorithms, pressure test approaches & outcomes, be responsible for quality control
 Own client communication and project delivery:",4.1,"RGF Professional Recruitment
-4.1",New Delhi,-1,51 to 200 Employees,2011,Unknown,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1
+",New Delhi,-1,51 to 200 Employees,2011,Unknown,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,570,905,737.5,['New Delhi'],9,0,0,0,0,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Zauba Technologies is a startup based in Bangalore. Zauba's services are used by leading companies in India. Zauba is powered by a young and passionate team. We are looking for individuals who would like to be a part of our founding team.
 As a Data Scientist and as a part of founding team, you will be expected to design and develop applications related to information retrieval, artificial intelligence, natural language processing and predictive modelling. Your rewards will be directly proportional to the value you generate.
 Design and development of robust, scalable and highly efficient data engineering solutions for structured and unstructured data
@@ -5140,7 +5140,7 @@ Proactively take ownership
 
 Interested?
 Send your resume to hr@zaubacorp.com",3.7,"Zauba Corp
-3.7",Bangalore,-1,1 to 50 Employees,-1,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),-1
+",Bangalore,-1,1 to 50 Employees,-1,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),-1,0,0,570,905,737.5,['Bangalore'],-1,1,0,1,0,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Job Advert
 Do you enjoy experimenting with data? Are you able to develop, structure and facilitate the data activity (prescriptive and / or predictive analysis) to formulate business recommendations? We are looking for a Data Scientist to guide and challenge strategic and tactical marketing decisions such as customer segmentation, optimal level of investment per channel, prediction of customer engagement based on historical data, etc.
 
@@ -5171,7 +5171,7 @@ Knowledge of Python, Scala or statistical software (Advantageous)
 Each Webhelper brings a different energy, passion, a unique set of skills and talents. This strand of our DNA sets us apart and is how we enrich customer experience and business solutions for our clients. Take this opportunity to join our collaborative team of game-changers today.
 
 Job Reference: IN00375",3.2,"Webhelp
-3.2",Gurgaon,-1,10000+ Employees,2000,Company - Private,Staffing & Outsourcing,Business Services,$500 million to $1 billion (USD),-1
+",Gurgaon,-1,10000+ Employees,2000,Company - Private,Staffing & Outsourcing,Business Services,$500 million to $1 billion (USD),-1,0,0,570,905,737.5,['Gurgaon'],20,1,0,1,1,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Job Description – Data Scientist
 
 3-5 years experience
@@ -5199,7 +5199,7 @@ Good knowledge of Basic Statistics (Hypothesis testing, probability, distributio
 Exposure towards multivariate statistical Analysis (such as PCA, PLS, etc.).
 Strong in Machine learning and supervised Learning techniques such as ANN, Decision Trees, SVM, Naïve Bayes etc.
 Knowledge on Unsupervised learning techniques such as k-means, hierarchical clustering etc.",3.4,"CoStrategix
-3.4",Bangalore,-1,51 to 200 Employees,2006,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+",Bangalore,-1,51 to 200 Employees,2006,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,570,905,737.5,['Bangalore'],14,1,0,1,0,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Why We Work at Dun & Bradstreet
 We are at a transformational moment in our company journey - and we’re so excited about it. Each day, we are finding new ways to strengthen our award-winning culture, and to accelerate creativity, innovation and growth. Our purpose is to help customers improve business performance with Dun & Bradstreet’s Data Cloud and Live Business Identity, and we’re wildly passionate and committed to this purpose. So, if you’re looking to make an immediate impact at a company that welcomes bold and diverse thinking, come join us!
 JOB DESCRIPTION :
@@ -5226,7 +5226,7 @@ Dun & Bradstreet is an Equal Opportunity Employer and all qualified applicants w
 
 We are committed to Equal Employment Opportunity and providing reasonable accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with Dun & Bradstreet and need special assistance or an accommodation to use our website or to apply for a position, please send an e-mail with your request to TalentAcquisitionTeam@dnb.com. Determination on requests for reasonable accommodation are made on a case-by-case basis.
 Please note that all Dun & Bradstreet job postings can be found at https://dnb.wd1.myworkdayjobs.com/Careers and all communication from Dun & Bradstreet will come from an email address ending in @dnb.com.",3.2,"Dun & Bradstreet
-3.2",Mumbai,-1,1001 to 5000 Employees,1841,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD),-1
+",Mumbai,-1,1001 to 5000 Employees,1841,Company - Public,IT Services,Information Technology,$1 to $2 billion (USD),-1,0,0,570,905,737.5,['Mumbai'],179,1,0,1,0,1
 Machine Learning Engineer/ Data Scientist,₹570K-₹905K (Glassdoor est.),"Your Tasks
 Validate requirements, execute projects and ensure the adoption of the best practices
 Create, develop and enable data & AI opportunities across various business functions and business processes for our employees.
@@ -5247,7 +5247,7 @@ Communicate fluently in English
 Languages
 Python
 and preferably other languages",3.5,"Dürr AG
-3.5",Noida,-1,10000+ Employees,-1,Company - Public,Industrial Manufacturing,Manufacturing,$2 to $5 billion (USD),-1
+",Noida,-1,10000+ Employees,-1,Company - Public,Industrial Manufacturing,Manufacturing,$2 to $5 billion (USD),-1,0,0,570,905,737.5,['Noida'],-1,1,0,0,1,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"We are looking for a data scientist that will help us discover the information hidden in vast amounts of data, and help us make smarter decisions to deliver even better products. Your primary focus will be in applying data mining techniques, doing statistical analysis, and building high quality prediction systems integrated with our products.
 Responsibilities
 Selecting features, building and optimizing classifiers using machine learning techniques
@@ -5266,7 +5266,7 @@ Proficiency in using query languages such as SQL, Hive, Pig
 Experience with NoSQL databases, such as MongoDB, Cassandra, HBase
 Good applied statistics skills, such as distributions, statistical testing, regression, etc.
 Good scripting and programming skills (if you expect that the person in this role will integrate the solution within the base application, list any programming languages and core frameworks currently being used)
-Data-oriented personality",-1,Hookfish,Mumbai,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+Data-oriented personality",-1.0,Hookfish,Mumbai,-1,Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,570,905,737.5,['Mumbai'],-1,0,0,0,0,1
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Hewlett Packard Enterprise is an industry leading technology company that enables customers to go further, faster. With a transformation to convert HPE as a ‘Everything as a Service company from Cloud to Edge” industry’s most comprehensive portfolio, spanning the cloud to the data center to workplace applications, our technology and services help customers around the world make IT more efficient, more productive and more secure.
 At HPE, you’ll build the future—one big idea at a time. Ready to unleash your professional potential? You’ll use your experience and scientific knowledge to influence the design, and qualification of the industry’s leading server portfolio. If solving the world’s biggest challenges sounds like the right career path for you, read on.
 HPE Compute team works on continuously innovating the manageability and supportability experiences for the ProLiant, Apollo and Synergy product lines. Our diagnostic data and analytic tools enable our Customers, product development and support teams to get predictions of impending system failures, root cause system failures faster and more accurately and delivers a more consistent support experience than ever before. Come join us and help build technologies that are redefining how we design our products and support our customers.
@@ -5296,7 +5296,7 @@ Education and Experience Required
 
 B.E/B.Tech/M.E/M.Tech/MCA (Full time), typically 14+ years of experience.
 1068847",4.2,"Hewlett Packard Enterprise
-4.2",Bangalore,-1,10000+ Employees,2015,Company - Public,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+",Bangalore,-1,10000+ Employees,2015,Company - Public,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,570,905,737.5,['Bangalore'],5,1,0,1,0,1
 Data Analyst/Scientist,₹570K-₹905K (Glassdoor est.),"Founded in 1987 and listed on NASDAQ, our client is headquartered in the USA and has an annual turnover of over USD 2+ Billion. They are a leading provider of technology solutions for small, medium, enterprises throughout the North America, Europe and Asia. Their comprehensive expertise and proven experience in advanced technologies and consulting & implementation services makes them the preferred partner for many global MNC customers
 
 As a Data Analyst/ Scientist you will be responsible for reviewing, analysing and for gaining insights from the data stored in the BI data cubes as well as position BI for future uses such as machine learning and predictive analytics of sales behaviors.
@@ -5323,7 +5323,7 @@ Data-oriented personality
 Location: Gurgaon, India
 
 Employment Term: Dedicated & Full Time",5.0,"itForte
-5.0",Gurgaon,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1
+",Gurgaon,-1,1 to 50 Employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,570,905,737.5,['Gurgaon'],-1,0,0,0,0,1
 Data Scientist - Machine Learning,₹570K-₹905K (Glassdoor est.),"The Yantriks Data Science and Machine Learning team works closely with sales, product and engineering teams to design and implement the next generation of retail solutions. Data Science team members bear the heavy burden of turning both small, sparse and massive data into actionable insights with measurable improvements to the customer bottom line. They use rigorous analysis and repeatable processes to implement both black box and interpretable models.
 
 Responsibilities:
@@ -5353,7 +5353,7 @@ If you want to know the heart of a company, take a look at their values. Ours un
 Check out Blue Yonder's blog - Supply Chain Nation - the platform for supply chain trends and innovations.
 
 All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.",4.4,"Blue Yonder
-4.4",Bangalore,-1,5001 to 10000 Employees,1985,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (USD),-1
+",Bangalore,-1,5001 to 10000 Employees,1985,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $2 billion (USD),-1,0,0,570,905,737.5,['Bangalore'],35,1,0,1,0,0
 Data Scientist,₹570K-₹905K (Glassdoor est.),"Sentieo is powering the future of financial and corporate research in a $30B market. Our vision is to create a world where competitive organizations have the insights they need to win. Built by former hedge fund analysts, we empower competitive investors and corporations to rapidly discover insights so they can make smarter investments and execute winning strategies. Supporting a global customer base of over 900 clients, we are excited to propel Sentieo into the next phase of our company’s global growth - from advanced, unprecedented product development to accelerated team scaling and expansion. Join our team as we reimagine the future of fintech.
 
 We are looking for a Senior Data Scientist to mine our vast database of 30 Million+ financial documents in order to develop tools that make our users better investors. You will be joining a small(but growing team) where you will have a major voice in deciding which projects to undertake. We'relooking for individuals who are excited about the opportunity to build data science tools that can give investors an edge. NLP + Investing/Quant experience is a major plus.
@@ -5384,7 +5384,7 @@ Fun team outings (offsites, happy hours, etc.).
 EEO
 
 Our company values diversity and believes diverse teams make innovation possible. We work on complex, difficult problems with no linear or clear solutions. We believe that a diverse team can bring different perspectives and approaches, and whose experiences reflect the full set of clients we seek to serve. As such, Sentieo is committed to a diverse representation among our employees.",4.1,"Sentieo
-4.1",New Delhi,-1,51 to 200 Employees,2016,Company - Private,Financial Analytics & Research,Finance,$5 to $10 million (USD),-1
+",New Delhi,-1,51 to 200 Employees,2016,Company - Private,Financial Analytics & Research,Finance,$5 to $10 million (USD),-1,0,0,570,905,737.5,['New Delhi'],4,1,0,0,0,0
 Business Data Analyst / Business Systems Analyst,₹492K-₹892K (Glassdoor est.),"Business Data Analyst / Business Systems Analyst
 
 JPMorgan Chase & Co. (NYSE: JPM) is a leading global financial services firm with assets of $2.6 trillion and operations worldwide. The firm is a leader in investment banking, financial services for consumers and small business, commercial banking, financial transaction processing, and asset management. A component of the Dow Jones Industrial Average, JPMorgan Chase & Co. serves millions of consumers in the United States and many of the world's most prominent corporate, institutional and government clients under its J.P. Morgan and Chase brands. Information about JPMorgan Chase & Co. is available at www.jpmorganchase.com .
@@ -5452,7 +5452,7 @@ Strong Excel and PowerPoint skills preferredJPMorgan Chase & Co., one of the old
 We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
 
 Equal Opportunity Employer/Disability/Veterans",4.0,"J.P. Morgan
-4.0",Mumbai,-1,10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),-1
+",Mumbai,-1,10000+ Employees,1799,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),-1,0,0,492,892,692.0,['Mumbai'],221,0,0,0,0,1
 Sr. Data Engineer,₹492K-₹892K (Glassdoor est.),"55023
 
 About NetApp
@@ -5490,4 +5490,4 @@ Job Segment:
 Database, Engineer, Consulting, Cloud, SQL, Technology, Engineering
 
 Apply now »",4.0,"NetApp
-4.0",Bangalore,-1,10000+ Employees,1992,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD),-1
+",Bangalore,-1,10000+ Employees,1992,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD),-1,0,0,492,892,692.0,['Bangalore'],28,1,0,0,1,1
